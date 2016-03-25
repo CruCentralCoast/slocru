@@ -18,7 +18,7 @@ $this->load->helper('url');
         <!-- Page Formatting -->
         <link href="../assets/css/header.css" rel="stylesheet" type="text/css">
         <!-- Loads the CSS for the specific page -->
-        <?php echo '<link href="../assets/css/' . (basename($_SERVER['PHP_SELF']) == 'index.php' ? 'home' : basename($_SERVER['PHP_SELF'])) . '.css" rel="stylesheet" type="text/css">'; ?>
+        <?php echo '<link href="../assets/css/' . (basename($_SERVER['REQUEST_URI']) == '' ? 'home' : basename($_SERVER['REQUEST_URI'])) . '.css" rel="stylesheet" type="text/css">'; ?>
         <link href="../assets/css/footer.css" rel="stylesheet" type="text/css">
     </head>
     <body>
@@ -45,6 +45,8 @@ $this->load->helper('url');
                         <img data-alt-src="../assets/img/back-crucentral_full-blue.png" src="../assets/img/back-crucentral_full.png" class="central" id="to-landing"/>
                     </a>
                 </div>
+                
+                <i class="fa fa-bars"></i>
 
                 <div class="container">
                     <ul class="menu">

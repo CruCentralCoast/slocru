@@ -8,8 +8,8 @@ and open the template in the editor.
     Author     : kylereis
 */
 
-html {
-    min-width: 1000px;
+body {
+    width: 1000px;
 }
 
 @font-face {
@@ -37,7 +37,7 @@ html {
     flex-wrap: wrap;
     -webkit-flex-wrap: wrap;
     justify-content: flex-start;
-    justify-content: -webkit-flex-start;
+    -webkit-justify-content: -webkit-flex-start;
 }
 
 .header-mtl {
@@ -76,7 +76,7 @@ html {
 }
 
 .intern {
-    background-color: #F5F5F5; //5% grey
+    background-color: #F5F5F5; /*5% grey*/
     width: 1170px;
     display:flex;
     display: -webkit-flex;
