@@ -8,9 +8,13 @@ and open the template in the editor.
     Author     : kylereis
 */
 
-body {
-    width: 1000px;
+html {
+    min-width: 1000px;
 }
+
+/*body {
+    min-width: 1000px;
+}*/
 
 @font-face {
     font-family: "FreightSansProLight";
