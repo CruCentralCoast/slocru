@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "FreightSansProSemiPro";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBook";
+    src: url('../fonts/FreigSanProBook.otf') format('opentype');
+}
+
+.left {
+    background-color: #f5f5f5;
+    padding: 4%;
+    padding-right: 3%;
+    font-size: 11pt;
+    line-height: 13pt;
+    font-family: "FreightSansProBook";
+}
+
+.left .header {
+    font-size: 16pt;
+    font-family: "FreightSansProSemiPro";
+    color: #007398;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.bible-verse {
+    background-image: url("../img/studies/bible-study-blue.jpg");
+    width: 100%;
+}
+
+.right {
+    background-color: #626262;
+}

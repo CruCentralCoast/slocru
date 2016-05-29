@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|robots\.txt|assets)
+RewriteRule ^(.*)$ /index.php/$1 [L]
+#RewriteEngine on
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule .* index.php/$0 [PT,L] 
+
+RewriteCond %{HTTP_HOST} ^beta\.slocru\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.beta\.slocru\.com$
+RewriteRule ^/?$ "http\:\/\/beta\.slo\.crucentralcoast\.com" [R=301,L]
+
