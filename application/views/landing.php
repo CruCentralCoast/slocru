@@ -13,14 +13,14 @@ $this->load->helper('url');
         <link href="../assets/css/landing.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <img src="../assets/img/landing/cru-central-coast-resize.png" id="CCC"><img>
+        <img src="../assets/img/landing/cru-central-coast.png" id="CCC"><img>
 
         <p class="tagline">A family of ministries giving every student and faculty on California's Central Coast the opportunity to hear the Good News of Jesus Christ</p>
         <div class="holder">
-            <a href="http://www.slocru.com">
+            <a href="home">
                 <img src="../assets/img/landing/slo-cru.png" class="ministry"><img>
             </a>
-            <a href="http://www.slocru.com">
+            <a href="https://www.facebook.com/groups/6433923302/?fref=nf">
                 <img src="../assets/img/landing/cuesta-cru.png" class="ministry"><img>
             </a>
             <a href="https://www.facebook.com/groups/epicslo/">

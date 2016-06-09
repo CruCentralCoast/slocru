@@ -92,7 +92,7 @@
                             echo $FBslo_cru . substr($FBpost['story'],7);
                         } else {
                             echo $FBslo_cru;
-                        } 
+                        }
                         echo '</br>';
                         $FBdate = strtotime($FBpost['created_time']);
                         echo date('F j',$FBdate) . ' at ' . date('g:ia',$FBdate);

@@ -8,10 +8,6 @@ and open the template in the editor.
     Author     : kylereis
 */
 
-html {
-    min-width: 1000px;
-}
-
 @font-face {
     font-family: "FreightSansProBold";
     src: url('../fonts/FreigSanProBold.otf') format('opentype');

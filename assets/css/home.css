@@ -157,3 +157,8 @@ img.holder {
     float: left;
     width: 33.3%;
 }
+
+#slider {
+    height: 250px;
+    object-fit: scale-down
+}
