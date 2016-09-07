@@ -61,7 +61,7 @@ $fasting = array(
         <div class="text" id="housing">
             <p class="housing" id="line1">LOOKING FOR A ROOMMATE?</p>
             <p class="housing" id="line2">You're not the only one.</p>
-            <p class="housing" id="line3">Check out the <a href="housing" class="housing" target="_blank">HOUSING BOARD</a></p>
+            <p class="housing" id="line3">Check out the <a href="http://crucentralcoasthousing.lefora.com/" class="housing" target="_blank">HOUSING BOARD</a></p>
         </div>
     </div>
     <div class="picture">
