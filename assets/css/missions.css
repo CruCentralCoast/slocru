@@ -1,0 +1,205 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 27, 2015, 12:44:43 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBook";
+    src: url('../fonts/FreigSanProBook.otf') format('opentype');
+}
+
+.box {
+    float: left;
+    width: 33.3333333%;
+    height: 370px;
+}
+
+a:hover #east-asia{
+    opacity: .6;
+    color: inherit;
+}
+
+#east-asia {
+    background-image: url("../img/missions/eastasia-blue.jpg");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-origin: content-box;
+    background-position: -70pt -10pt;
+}
+
+#east-asia p {
+    font-family: "FreightSansProBold";
+    font-size: 18pt;
+    color: #ffffff;
+    text-align: center;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1pt;
+    margin-top: 60pt;
+    margin-right: 50pt;
+    margin-left: 50pt;
+    padding-top: 22pt;
+    padding-bottom: 22pt;
+}
+
+#missions {
+    background-color: grey;
+}
+
+p.missions-header {
+    font-family: "FreightSansProSemiBold";
+    font-size: 16pt;
+    color: #ffffff;
+    margin-left: 50pt;
+    margin-top: 22pt;
+}
+
+p.missions {
+    font-family: "FreightSansProBook";
+    font-size: 10pt;
+    color: #ffffff;
+    margin-left: 50pt;
+}
+
+a.mission-link {
+    color: #f9b625;
+}
+
+a:hover #oasis{
+    opacity: .6;
+    color: inherit;
+}
+
+#oasis {
+    background-image: url("../img/missions/oasis-blue.jpg");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-origin: content-box;
+}
+
+#oasis p {
+    font-family: "FreightSansProBold";
+    font-size: 18pt;
+    color: #ffffff;
+    text-align: center;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1pt;
+    margin-top: 60pt;
+    margin-right: 50pt;
+    margin-left: 50pt;
+    padding-top: 22pt;
+    padding-bottom: 22pt;
+}
+
+#summer {
+    background-color: lightgray;
+}
+
+p.summer {
+    font-family: "FreightSansProBook";
+    font-size: 10pt;
+    color: #666062;
+    margin-left: 50pt;
+    margin-top: 22pt;
+}
+
+a.button-summer:hover div.button-summer{
+    opacity: .6;
+    color: inherit;
+}
+
+.button {
+    margin-left: 70pt;
+    margin-right: 70pt;
+}
+
+div.button-summer {
+    width: 200px;
+    background-color: #3eb1c8;
+}
+
+p.button-summer{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 7pt;
+    padding-bottom: 7pt;
+}
+
+a:hover #stateside{
+    opacity: .6;
+    color: inherit;
+}
+
+#stateside {
+    background-image: url("../img/missions/stateside-orange.jpg");
+    background-repeat: no-repeat;
+    background-size: 170%;
+    background-origin: content-box;
+}
+
+#stateside p {
+    font-family: "FreightSansProBold";
+    font-size: 18pt;
+    color: #ffffff;
+    text-align: center;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1pt;
+    margin-top: 60pt;
+    margin-right: 50pt;
+    margin-left: 50pt;
+    padding-top: 22pt;
+    padding-bottom: 22pt;
+}
+
+#stint {
+    background-color: lightgray;
+}
+
+p.stint {
+    font-family: "FreightSansProBook";
+    font-size: 10pt;
+    color: #666062;
+    margin-left: 50pt;
+    margin-top: 22pt;
+}
+
+a.button-stint:hover div.button-stint{
+    opacity: .6;
+    color: inherit;
+}
+
+.button {
+    margin-left: 70pt;
+    margin-right: 70pt;
+}
+
+div.button-stint {
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f9b625;
+}
+
+p.button-stint{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 7pt;
+    padding-bottom: 7pt;
+}

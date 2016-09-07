@@ -1,0 +1,174 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 24, 2015, 4:42:44 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProSemiPro";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProLightItalic";
+    src: url('../fonts/FreigSanProLigIt.otf') format('opentype');
+}
+
+.left {
+    background-color: #626262;
+    padding-left: 50px;
+    padding-right:50px;
+    text-align: center;
+    width: 66.6666666%;
+    float: left;
+}
+
+.right {
+    background-color: #f5f5f5;
+    height: 742px;
+    padding: 10px;
+    width: 33.333333333%;
+    float: left;
+    overflow: auto;
+}
+
+.left-header {
+    font-family: "FreightSansProMedium";
+    font-size: 16pt;
+    text-align: center;
+    color: white;
+}
+
+.box {
+    //position: relative;
+    width: 45%;
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+}
+
+.box:before{
+    content: "";
+    //display: block;
+    padding-top: 100%; 	/* initial ratio of 1:1*/
+}
+
+.white-box{
+    //position: absolute;
+    background-color: white;
+    padding: 10px;
+    font-size: 14pt;
+    font-family: "FreightSansProSemiPro";
+    color: #3eb1c8;
+}
+
+.photo{
+    width: 100%;
+    height: 165pt;
+    margin-bottom: 5%;
+}
+
+.event:hover .list-item-event{
+    opacity: .6;
+}
+
+.list-item{
+    width: 100%;
+}
+
+.list-item .list-icon{
+    float: left;
+    padding: 10px;
+}
+
+.list-item .list-text{
+    float: left;
+    font-size: 18pt;
+    font-family: "FreightSansProSemiPro";
+    color: #007398;
+    margin-top: 4%;
+    margin-left: 7%;
+    text-align: center;
+}
+.list-item-event{
+    display: block;
+    background-color: #ffffff;
+    width: 100%;
+    overflow: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.event-date {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border: 1px solid #DD7D1B;
+    padding: 10px;
+}
+
+.month{
+    text-align: center;
+    font-family: "FreightSansProLight";
+    color: #DD7D1B;
+    font-size: 10pt;
+}
+
+.day {
+    font-family: "FreightSansProSemiPro";
+    font-size: 24pt;
+    color: #DD7D1B;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.event-text {
+    float: left;
+}
+
+.date-container{
+    position: relative;
+    width: 20%;
+    float: left;
+}
+
+.date-container:before{
+    content: "";
+    display: block;
+    padding-top: 100%; 	/* initial ratio of 1:1*/
+}
+
+.event-text {
+    text-align: center;
+    width: 80%;
+    margin-top: 3%;
+}
+
+.event-text-title {
+    font-family: "FreightSansProMedium";
+    font-size: 13pt;
+    color: #3eb1c8;
+}
+
+.event-text-desc {
+    color: #666062;
+    font-family: "FreightSansProLightItalic";
+    font-size: 12pt;
+}

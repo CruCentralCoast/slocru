@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2014, 6:08:16 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+#footer {
+    background-color: #262626;
+    font-family: "FreightSansProLight";
+    font-size: 8pt;
+    color: #ffffff;
+    padding-left: 40px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}

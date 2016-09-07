@@ -1,0 +1,136 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2014, 12:58:13 AM
+    Author     : kylereis
+*/
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+body {
+    background-image: url("../img/Bishop-peak_blue.jpg");
+    background-repeat: no-repeat;
+}
+
+#header {
+    background-color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+html { 
+    min-width: 1000px;
+}
+
+.container {
+    max-width: 1170px;
+}
+
+img.logo {
+    margin-left: 40px;
+    margin-top: 25px;
+    width: 100pt;
+    //height: 75pt;
+}
+
+img.central {
+    float: right;
+    margin-top: 35px;
+    margin-right: 6px;
+}
+
+img.social {
+    float: right;
+    width: 20pt;
+    height: 20pt;
+    margin-right: 6px;
+    margin-top: 30px;
+}
+
+img.social-youtube {
+    float: right;
+    width: 26pt;
+    height: 26pt;
+    margin-left: -3pt;
+    margin-right: 6px;
+    margin-top: 26px;
+}
+
+li {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    display: inline;
+    padding: .5em;
+    color: #666062;
+}
+
+a.menu-items {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    color: #666062;
+}
+
+.buffer {
+    height: 14pt;
+}
+
+.menu {
+    margin-top: -5pt;
+    cursor: pointer;
+    float: right;
+    margin-right: 64pt;
+    margin-bottom: 16pt;
+    color: #666062;
+}
+
+#youtube {
+    margin-right: 64pt;
+}
+
+.subcatagories {
+    width: 100%;
+    height: 26pt;
+    float: right;
+    margin-top: -12pt;
+    background-color: #f9b625;
+}
+
+.hidden {
+    display: none;
+}
+
+#twitter:hover, #facebook:hover, #instagram:hover, #youtube:hover {
+    opacity: .5;
+}
+
+p.subs{
+    float: right;
+    margin-top: 6pt;
+    margin-right: 64pt;
+    color: #ffffff;
+    font-family: "FreightSansProLight";
+    font-size: 10pt;
+}
+
+a.subs {
+    color: #ffffff;
+}
+
+/*.about:active {
+    display: inline;
+    background: #dd7d1b;
+    font-family: "FreightSansProSemiBold";
+    color: #ffffff;
+}*/

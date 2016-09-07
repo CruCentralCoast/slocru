@@ -1,0 +1,116 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\.DS_Store
+FileLength:6148
+FileModTime:1416158376
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightSansProBold-Regular
+FamilyName:FreightSans Pro
+StyleName:Bold
+MenuName:FreightSans Pro Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FreightSans Pro Bold
+WritingScript:Roman
+OutlineFileName:\FreigSanProBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:104220
+FileModTime:1243609864
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightSansProLight-Regular
+FamilyName:FreightSans Pro
+StyleName:Light
+MenuName:FreightSans Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:FreightSans Pro Light
+WritingScript:Roman
+OutlineFileName:\FreigSanProLig.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99552
+FileModTime:1243609868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightSansProLight-Italic
+FamilyName:FreightSans Pro
+StyleName:Light Italic
+MenuName:FreightSans Pro Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:FreightSans Pro Light Italic
+WritingScript:Roman
+OutlineFileName:\FreigSanProLigIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:125296
+FileModTime:1243609868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightSansProMedium-Regular
+FamilyName:FreightSans Pro
+StyleName:Medium
+MenuName:FreightSans Pro Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:FreightSans Pro Medium
+WritingScript:Roman
+OutlineFileName:\FreigSanProMed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99424
+FileModTime:1243609868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreightSansProSemibold-Regular
+FamilyName:FreightSans Pro
+StyleName:Semibold
+MenuName:FreightSans Pro Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:FreightSans Pro Semibold
+WritingScript:Roman
+OutlineFileName:\FreigSanProSem.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:105824
+FileModTime:1243609870
+%EndFont
+

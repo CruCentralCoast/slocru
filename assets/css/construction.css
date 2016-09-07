@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2014, 6:47:42 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProItalic";
+    src: url('../fonts/FreigSanProLigIt.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+body {
+    background-color: #ffffff;
+}
+
+img.logo {
+    margin-left: 40px;
+    margin-top: 25px;
+    width: 95px;
+    height: 75pt;
+    margin-bottom: 15pt;
+}
+
+.text {
+    padding-top: 10pt;
+    color: #ffffff;
+    font-family: "FreightSansProSemiBold";
+    font-size: 12pt;
+    background-color: #f9b625;
+    padding-bottom: 10pt;
+    padding-left: 15pt;
+    width: 800pt;
+}
+
+.picture {
+    margin-top: -8pt;
+    width: 800pt;
+}
+
+#footer {
+    background-color: #706f73;
+    font-family: "FreightSansProLight";
+    font-size: 8pt;
+    color: #ffffff;
+    padding-left: 40px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 800pt;
+}
