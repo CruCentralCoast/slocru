@@ -95,7 +95,7 @@ $this->load->helper('url');
                             <p class="subs">
                                 <a href="construction" class="subs">SERMONS</a>
                                 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; 
-                                <a href="housing" class="subs">HOUSING</a>
+                                <a href="http://crucentralcoasthousing.lefora.com/" class="subs">HOUSING</a>
                             </p>
                         </div>
                     </div>
