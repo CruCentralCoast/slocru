@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2014, 11:17:46 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProItalic";
+    src: url('../fonts/FreigSanProLigIt.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+.bottom {
+    padding-top: 28pt;
+    padding-bottom: 28pt;
+    background-color: #ffffff;
+}
+
+.shift {
+    margin-left: 30pt;
+}
+
+.resources {
+    float: left;
+    width: 33.3%;
+    padding-left: 40pt;
+}
+
+#section1{
+    padding-right: 30pt;
+}
+
+.headings {
+    font-family: "FreightSansProSemiBold";
+    font-size: 14pt;
+    color: #727375;
+}
+
+.site-link, .site-link:hover {
+    font-family: "FreightSansProMedium";
+    font-size: 12pt;
+    color: #dd7d1b;
+}
+
+.description {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    color: #727375;
+}
+
+.subheadings {
+    font-family: "FreightSansProMedium";
+    font-size: 12pt;
+    color: #727375;
+    margin-bottom: 15pt;
+}
+
+.links, .links:hover {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    color: #dd7d1b;
+}
+
+p.links {
+    margin-top: -8pt;
+}
+
+.links:hover, .site-link:hover {
+    opacity: .5;
+}

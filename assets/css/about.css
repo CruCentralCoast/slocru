@@ -1,0 +1,198 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 1, 2015, 8:18:29 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+
+/*******
+ * DIVS *
+ *******/
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.column-biggerish {
+   float: left;
+   width: 33.34%;
+}
+
+.top {
+    height: 400pt;
+}
+
+.div-about {
+    background-color: #e4e5e4;
+    height: 100%;
+    padding: 40px;
+}
+
+.div-involvement {
+    background-color: #666;
+    height: 100%;
+    padding: 40px;
+}
+
+.div-staff {
+    background-color: #e4e5e4;
+    height: 65%;
+    padding: 40px;
+}
+
+.div-staff-img {
+    height: 35%;
+}
+
+.div-staff-img > img {
+   width: 100%;
+}
+
+.bottom {
+    height: 240pt;
+}
+
+.div-history {
+    background-color: #007398;
+    background-image: url('../img/outdoor-cru-blue.jpg');
+    background-size: 100%;
+    float: left;
+    height: 100%;
+    padding: 90px;
+    width: 66.66%;
+}
+
+.div-give {
+    background-color: #e4e5e4;
+    float: left;
+    height: 100%;
+    padding: 40px;
+    width: 33.34%;
+}
+
+/***********
+ * BUTTONS *
+ ***********/
+
+p.button {
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5pt;
+}
+
+p.button:hover {
+    color: inherit;
+}
+
+.button-about {
+    border: solid #c2c2c2 1pt;
+    font-family: "FreightSansProLight";
+    margin: 40px auto auto auto;
+    padding: 10px 0;
+    width: 70%;
+}
+
+.button-involvement {
+    border: solid white 1pt;
+    font-family: "FreightSansProLight";
+    margin: 40px auto auto auto;
+    padding: 10px 0;
+    width: 70%;
+}
+
+.button-staff {
+    border: solid #c2c2c2 1pt;
+    font-family: "FreightSansProLight";
+    margin: 40px auto auto auto;
+    padding: 10px 0;
+    width: 70%;
+}
+
+.button-history {
+    border: solid white 1pt;
+    color: white;
+    font-family: "FreightSansProBold";
+    font-size: 24pt;
+    padding: 10px 0;
+    margin: auto;
+    width: 80%;
+}
+
+.button-give {
+    background-color: #3eb1c8;
+    color: white;
+    font-family: "FreightSansProSemiBold";
+    font-size: 10pt;
+    padding: 10px 0;
+    margin: 40px auto auto auto;
+    width: 70%;
+}
+
+/********
+ * TEXT *
+ ********/
+
+.text-dark {
+    color: #666062;
+    font-family: "FreightSansProLight";
+    font-size: 11pt;
+}
+
+.text-light {
+    color: white;
+    font-family: "FreightSansProLight";
+    font-size: 11pt;
+}
+
+p.text-dark > a, p.text-light > a {
+   color: #dd7d1b;
+}
+
+.header-light {
+    color: white;
+    font-family: "FreightSansProSemiBold";
+    font-size: 16pt;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.header-blue {
+    color: #007398;
+    font-family: "FreightSansProSemiBold";
+    font-size: 16pt;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.link-light, .link-light:hover {
+   color: white !important;
+}
+
+.link-dark, .link-dark:hover {
+   color: #666062 !important;
+}
