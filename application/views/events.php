@@ -1,16 +1,18 @@
 <script>
     var currentEvent = -1;
-function activateEvent(id) {
-    location.hash = id;
-    $("#event" + id).show();
-    $("#eventPhoto" + id).show();
-    $("#eventBttn" + id).fadeTo(.6);
-    if(currentEvent != id)  {
-        $("#event" + currentEvent).hide();
-        $("#eventPhoto" + currentEvent).hide();
+
+    function activateEvent(id) {
+        location.hash = id;
+        $("#event" + id).show();
+        $("#eventPhoto" + id).show();
+        $("#eventBttn" + id).fadeTo(.6);
+        if(currentEvent != id)  {
+            $("#event" + currentEvent).hide();
+            $("#eventPhoto" + currentEvent).hide();
+        }
+        currentEvent = id;
     }
-    currentEvent = id;
-}
+
     window.onhashchange = function() {
         if(document.getElementById("event" + location.hash.substr(1)) != null)
             activateEvent(location.hash.substr(1));
@@ -20,7 +22,7 @@ function activateEvent(id) {
 <div class="container">
     <div class="light-left" style="height:155px;">
         <?php foreach($events as $event) { if(!property_exists($event, "bannerImageLink") || $event->bannerImageLink == "") {continue;}?>
-        <img id="eventPhoto<?php echo $event->_id; ?>" style="display:none;" class="banner-photo" src="<?php echo  $event->bannerImageLink; ?>"/>
+            <img id="eventPhoto<?php echo $event->_id; ?>" style="display:none;" class="banner-photo" src="<?php echo  $event->bannerImageLink; ?>"/>
         <?php } ?>
     </div>
     <div class="right" style="height: 400px; overflow-y: scroll;">
@@ -94,49 +96,51 @@ function activateEvent(id) {
     </div>
     <?php 
         for($i = 0; $i < count($events); $i++) { ?>
-    <div class="left" style="height: 445px; display:none;" id="event<?php echo $events[$i]->_id; ?>">
-        
-        <div>
-            <div class="left-header" >
-                <hr />
-            <?php echo strtoupper($events[$i]->name); ?>
-                <hr />
+            <div class="left" style="height: 445px; display:none;" id="event<?php echo $events[$i]->_id; ?>">
+                <div>
+                    <div class="left-header" >
+                        <hr />
+                            <?php echo strtoupper($events[$i]->name); ?>
+                        <hr />
+                    </div>
+                    <p>
+                        <?php echo $events[$i]->description; ?>
+                    </p>
+                    <div class="box">
+                        <h3>WHEN</h3>
+                        <p><?php
+                            $date = new DateTime($events[$i]->startDate);
+                            $startTime = new DateTime($events[$i]->startDate);
+                            $endTime = new DateTime($events[$i]->endDate);
+                            $startTime = $startTime->format("g:ia");
+                            $endTime = $endTime->format("g:ia");
+                            $date = $date->format('l F jS, Y');
+                            echo $date . " " . $startTime . " - " . $endTime; ?>
+                        </p>
+                    </div>
+                    <div class="box">
+                        <h3>WHERE</h3>
+                        <p><?php echo $events[$i]->location->street1 . ", " . $events[$i]->location->suburb; ?></p>
+                    </div>
+                    <?php if($events[$i]->url != "" || $events[$i]->url != null) { ?>
+                        <a target="_blank" href="<?php echo $events[$i]->url; ?>"><div class="btn">SEE MORE INFO</div></a>
+                    <?php } ?>
+                </div>
+
+                <?php
+                if($i == 0) { ?>
+                    <script>$(document).ready(function() {
+                        if(location.hash == null || location.hash == "" || document.getElementById("event" + location.hash.substr(1)) == null) {
+                            activateEvent('<?php echo $events[$i]->_id; ?>');
+                        } else {
+                            activateEvent(location.hash.substr(1));
+                        }
+                    });</script>
+
+                <?php } ?>
             </div>
-            <p>
-            <?php echo $events[$i]->description; ?>
-            </p>
-            <div class="box">
-                <h3>WHEN</h3>
-                <p><?php 
-                    $date = new DateTime($events[$i]->startDate);
-                    $startTime = new DateTime($events[$i]->startDate);
-                    $endTime = new DateTime($events[$i]->endDate);
-                    $startTime = $startTime->format("g:ia");
-                    $endTime = $endTime->format("g:ia");
-                    $date = $date->format('l F jS, Y');
-                    echo $date . " " . $startTime . " - " . $endTime; ?>
-                </p>
-            </div>
-            <div class="box">
-                <h3>WHERE</h3>
-                <p><?php echo $events[$i]->location->street1 . ", " . $events[$i]->location->suburb; ?></p>
-            </div>
-            <?php if($events[$i]->url != "" || $events[$i]->url != null) { ?>
-            <a target="_blank" href="<?php echo $events[$i]->url; ?>"><div class="btn">SEE MORE INFO</div></a>
-            <?php } ?>
-        </div>
-        <?php 
-        if($i == 0) { ?>
-            <script>$(document).ready(function() { 
-                if(location.hash == null || location.hash == "" || document.getElementById("event" + location.hash.substr(1)) == null) {
-                    activateEvent('<?php echo $events[$i]->_id; ?>'); 
-                } else {
-                    activateEvent(location.hash.substr(1));
-                }
-            });</script>
-        <?php } ?>
-    </div>
     <?php } ?>
+
     <div class="right weeklyevents" style="height:200px;">
         <img src="../../assets/img/events/clubshowcase.jpg" />
         <div class="right-header">WEEKLY EVENTS</div>
