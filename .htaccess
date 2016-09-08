@@ -1,4 +1,12 @@
+# Use PHP5.4 as default
+AddHandler application/x-httpd-php54 .php
+
 RewriteEngine on
+RewriteCond %{HTTP_HOST} ^slocru\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.slocru\.com$
+RewriteRule ^/?$ "http\:\/\/slo\.crucentralcoast\.com\/" [R=301,L]
+
+# Changed PHP handler from fcgid54-script to fcgidbeta-script on Tue Nov 17 22:35:37 MST 2015.
 RewriteCond $1 !^(index\.php|images|robots\.txt|assets)
 RewriteRule ^(.*)$ /index.php/$1 [L]
 #RewriteEngine on

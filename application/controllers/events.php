@@ -18,15 +18,6 @@ class Events extends CI_Controller
     public function _remap($method)
     {
         $result = $this->event_model->getEvents();
-        //If we only want to show upcomming events
-        /*$currentDate = strtotime("now");
-        $data['events'] = [];
-        foreach($result as $event) {
-            
-            if((strtotime($event->Date) - $currentDate) > 0) {
-                array_push($data['events'], $event);
-            }
-        }*/
         $data['events'] = $result;
         
         $data['selectedevent'] = 0;

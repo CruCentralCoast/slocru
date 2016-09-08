@@ -19,8 +19,8 @@ function activateEvent(id) {
 
 <div class="container">
     <div class="light-left" style="height:155px;">
-        <?php foreach($events as $event) { if(!property_exists($event, "bannerImageLink") || $event->bannerImageLink == "") {continue;}?>
-        <img id="eventPhoto<?php echo $event->_id; ?>" style="display:none;" class="banner-photo" src="<?php echo  $event->bannerImageLink; ?>"/>
+        <?php foreach($events as $event) {  ?>
+        <img id="eventPhoto<?php echo $event->Id; ?>" style="display:none;" class="banner-photo" src="http://slocru.com/<?php echo  $event->Image; ?>"/>
         <?php } ?>
     </div>
     <div class="right" style="height: 400px; overflow-y: scroll;">
@@ -36,13 +36,13 @@ function activateEvent(id) {
 
         <?php foreach($events as $event) { ?>
             <?php
-                $timestamp = strtotime($event->startDate);
+                $timestamp = strtotime($event->Date);
                 $month = date("M", $timestamp);
                 $day = date("j", $timestamp);
             ?>
-            <a style="cursor:pointer;" onclick="activateEvent('<?php echo $event->_id; ?>')" class="event">
+            <a style="cursor:pointer;" onclick="activateEvent(<?php echo $event->Id; ?>)" class="event">
             <!--<a class="event" href="events">-->
-                <div id="eventBttn<?php echo $event->_id; ?>" class="list-item-event">
+                <div id="eventBttn<?php echo $event->Id; ?>" class="list-item-event">
                     <div class="date-container">
                         <div class="event-date">
                             <div class="month"><?php echo strtoupper($month); ?></div>
@@ -52,10 +52,10 @@ function activateEvent(id) {
                     <div class="event-text">
                         <div class="event-text-title">
                             <?php
-                                $str = $event->name . " (";
-                                $starttime = strtotime($event->startDate);
-                                if(isset($event->endDate)) {
-                                    $endtime = strtotime($event->endDate);
+                                $str = $event->Name . " (";
+                                $starttime = strtotime($event->StartTime);
+                                if(isset($event->EndTime)) {
+                                    $endtime = strtotime($event->EndTime);
                                 }
                                 else {
                                     $endtime = NULL;
@@ -85,7 +85,7 @@ function activateEvent(id) {
                                 ?>
                         </div>
                         <div class="event-text-desc">
-                            <?php echo $event->location->street1 . ", " . $event->location->suburb; ?>
+                            <?php echo $event->Location; ?>
                         </div>
                     </div>
                 </div>
@@ -94,23 +94,23 @@ function activateEvent(id) {
     </div>
     <?php 
         for($i = 0; $i < count($events); $i++) { ?>
-    <div class="left" style="height: 445px; display:none;" id="event<?php echo $events[$i]->_id; ?>">
+    <div class="left" style="height: 445px; display:none;" id="event<?php echo $events[$i]->Id; ?>">
         
         <div>
             <div class="left-header" >
                 <hr />
-            <?php echo strtoupper($events[$i]->name); ?>
+            <?php echo strtoupper($events[$i]->Name); ?>
                 <hr />
             </div>
             <p>
-            <?php echo $events[$i]->description; ?>
+            <?php echo $events[$i]->Description; ?>
             </p>
             <div class="box">
                 <h3>WHEN</h3>
                 <p><?php 
-                    $date = new DateTime($events[$i]->startDate);
-                    $startTime = new DateTime($events[$i]->startDate);
-                    $endTime = new DateTime($events[$i]->endDate);
+                    $date = new DateTime($events[$i]->Date);
+                    $startTime = new DateTime($events[$i]->StartTime);
+                    $endTime = new DateTime($events[$i]->EndTime);
                     $startTime = $startTime->format("g:ia");
                     $endTime = $endTime->format("g:ia");
                     $date = $date->format('l F jS, Y');
@@ -119,17 +119,17 @@ function activateEvent(id) {
             </div>
             <div class="box">
                 <h3>WHERE</h3>
-                <p><?php echo $events[$i]->location->street1 . ", " . $events[$i]->location->suburb; ?></p>
+                <p><?php echo $events[$i]->Location; ?></p>
             </div>
-            <?php if($events[$i]->url != "" || $events[$i]->url != null) { ?>
-            <a target="_blank" href="<?php echo $events[$i]->url; ?>"><div class="btn">SEE MORE INFO</div></a>
+            <?php if($events[$i]->Link != "" || $events[$i]->Link != null) { ?>
+            <a target="_blank" href="<?php echo $events[$i]->Link; ?>"><div class="btn">SEE MORE INFO</div></a>
             <?php } ?>
         </div>
         <?php 
         if($i == 0) { ?>
             <script>$(document).ready(function() { 
                 if(location.hash == null || location.hash == "" || document.getElementById("event" + location.hash.substr(1)) == null) {
-                    activateEvent('<?php echo $events[$i]->_id; ?>'); 
+                    activateEvent(<?php echo $events[$i]->Id; ?>); 
                 } else {
                     activateEvent(location.hash.substr(1));
                 }
@@ -149,7 +149,7 @@ function activateEvent(id) {
         <div class="right-header-small">Sharing Times</div>
         <center>
         <p>
-            Tuesday and Thursday from 11-12 (UU Mustang) <br />
+            Thursday from 11-12 (UU Mustang) <br />
         </p>
         </center>
     </div>

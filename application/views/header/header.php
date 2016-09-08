@@ -18,6 +18,7 @@ $this->load->helper('url');
         <!-- Page Formatting -->
         <link href="../assets/css/header.css" rel="stylesheet" type="text/css">
         <!-- Loads the CSS for the specific page -->
+        <!-- <?php echo basename($_SERVER['REQUEST_URI']) . ' ' . phpversion(); ?> -->
         <?php echo '<link href="../assets/css/' . (basename($_SERVER['REQUEST_URI']) == '' ? 'home' : basename($_SERVER['REQUEST_URI'])) . '.css" rel="stylesheet" type="text/css">'; ?>
         <link href="../assets/css/footer.css" rel="stylesheet" type="text/css">
     </head>
@@ -45,8 +46,6 @@ $this->load->helper('url');
                         <img data-alt-src="../assets/img/back-crucentral_full-blue.png" src="../assets/img/back-crucentral_full.png" class="central" id="to-landing"/>
                     </a>
                 </div>
-                
-                <i class="fa fa-bars"></i>
 
                 <div class="container">
                     <ul class="menu">
@@ -93,9 +92,9 @@ $this->load->helper('url');
                         </div>
                         <div id="resources-links" class="subs hidden">
                             <p class="subs">
-                                <a href="construction" class="subs">SERMONS</a>
+                                <a href="sermons" class="subs">SERMONS</a>
                                 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; 
-                                <a href="housing" class="subs">HOUSING</a>
+                                <a href="http://crucentralcoasthousing.lefora.com/" class="subs">HOUSING</a>
                             </p>
                         </div>
                     </div>

@@ -10,7 +10,7 @@ class Staff_model extends CI_Model
 
     /**
      * Function to return user informtion
-     *
+     * 
      * @param String Username
      * @return Array of users
      */
@@ -19,13 +19,13 @@ class Staff_model extends CI_Model
         $result = $this->db->select('*')->from('staff')->where('group', "mtl")->get();
         return $result->result();
     }
-
+    
     function getStaff()
     {
         $result = $this->db->select('*')->from('staff')->where('group', "staff")->get();
         return $result->result();
     }
-
+    
     function getIntern()
     {
         $result = $this->db->select('*')->from('staff')->where('group', "intern")->get();
