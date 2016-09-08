@@ -1,0 +1,924 @@
+[18-Nov-2011 13:56:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 13:56:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 13:56:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 13:56:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:35:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:20] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:36:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 16:49:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 17:43:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/slocrus1/public_html/rides/gettimes.php on line 4
+[18-Nov-2011 17:58:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/gettimes.php on line 26
+[18-Nov-2011 17:58:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/gettimes.php on line 26
+[18-Nov-2011 17:58:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/gettimes.php on line 26
+[18-Nov-2011 17:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/gettimes.php on line 26
+[18-Nov-2011 17:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/gettimes.php on line 26
+[18-Nov-2011 19:42:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/gettimes.php on line 26
+[19-Nov-2011 02:09:36] PHP Parse error:  syntax error, unexpected '&' in /home/slocrus1/public_html/rides/getuser.php on line 20
+[19-Nov-2011 02:10:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/slocrus1/public_html/rides/getuser.php on line 23
+[22-Jan-2012 16:04:52] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:05:26] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:06:29] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:07:17] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:07:39] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:10:14] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:10:40] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:13:20] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:19:36] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:20:25] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:20:36] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 16:24:02] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 17:07:10] PHP Fatal error:  Call to a member function GetSpamTrapInputName() on a non-object in /home/slocrus1/public_html/rides/addDriver.php on line 74
+[22-Jan-2012 17:07:37] PHP Fatal error:  Call to a member function GetSpamTrapInputName() on a non-object in /home/slocrus1/public_html/rides/addDriver.php on line 74
+[22-Jan-2012 18:08:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/submit_driver.php on line 33
+[22-Jan-2012 19:41:14] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:41:23] PHP Parse error:  syntax error, unexpected '"' in /home/slocrus1/public_html/rides/submit_rider.php on line 35
+[22-Jan-2012 19:41:39] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:44:38] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:45:55] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:46:01] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:46:03] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:46:14] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:46:33] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:46:44] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:47:33] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:47:42] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:48:32] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:48:41] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:48:46] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:49:13] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:49:16] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 19:51:03] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 20:00:20] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[22-Jan-2012 20:00:54] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 33
+[22-Jan-2012 20:00:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 33
+[22-Jan-2012 20:02:42] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 02:48:53] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: Unable to access /home/slocrus1/php/Mail.php in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 02:48:53] PHP Warning:  require_once(/home/slocrus1/php/Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 02:48:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/slocrus1/php/Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 02:51:48] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 02:52:01] PHP Fatal error:  Class 'Mail' not found in /home/slocrus1/public_html/rides/submit_rider.php on line 54
+[23-Jan-2012 02:53:38] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 02:53:53] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 02:53:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 02:57:00] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 02:57:12] PHP Parse error:  syntax error, unexpected T_REQUIRE_ONCE in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 02:57:40] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 02:57:40] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='/home/slocrus1/php/') in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 10:48:58] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:06:28] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:06:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:13:43] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:13:51] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:13:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:18:30] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:18:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:21:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:23:22] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/submit_rider.php on line 32
+[23-Jan-2012 11:23:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/submit_rider.php on line 33
+[23-Jan-2012 11:35:21] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 11:35:21] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 11:51:41] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:52:01] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:52:18] PHP Warning:  require_once(Mail.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 11:52:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/submit_rider.php on line 31
+[23-Jan-2012 11:55:06] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:55:22] PHP Warning:  require_once(PEAR.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/php/Mail.php on line 46
+[23-Jan-2012 11:55:22] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PEAR.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/php/Mail.php on line 46
+[23-Jan-2012 11:57:15] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 11:57:33] PHP Warning:  include_once(Net/SMTP.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/php/Mail/smtp.php on line 348
+[23-Jan-2012 11:57:33] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/php/Mail/smtp.php on line 348
+[23-Jan-2012 11:57:33] PHP Fatal error:  Class 'Net_SMTP' not found in /home/slocrus1/php/Mail/smtp.php on line 349
+[23-Jan-2012 12:06:10] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:06:24] PHP Warning:  include_once(Net/SMTP.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/php/Mail/smtp.php on line 348
+[23-Jan-2012 12:06:24] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/php/Mail/smtp.php on line 348
+[23-Jan-2012 12:06:24] PHP Fatal error:  Class 'Net_SMTP' not found in /home/slocrus1/php/Mail/smtp.php on line 349
+[23-Jan-2012 12:08:48] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:10:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slocrus1/public_html/rides/submit_rider.php:65) in /home/slocrus1/public_html/rides/submit_rider.php on line 73
+[23-Jan-2012 12:14:06] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:31:25] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:32:12] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:33:01] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:33:31] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:33:35] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:34:15] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:35:50] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:40:28] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:45:10] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:47:09] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[23-Jan-2012 12:47:21] PHP Fatal error:  Call to a member function GetFormIDInputName() on a non-object in /home/slocrus1/public_html/rides/contactform-code.php on line 16
+[24-Jan-2012 16:45:04] PHP Fatal error:  Class 'Mail_mime' not found in /home/slocrus1/public_html/rides/updateCar.php on line 76
+[24-Jan-2012 16:47:15] PHP Fatal error:  Class 'Mail_mime' not found in /home/slocrus1/public_html/rides/updateCar.php on line 80
+[24-Jan-2012 17:01:43] PHP Fatal error:  Class 'Mail_mime' not found in /home/slocrus1/public_html/rides/updateCar.php on line 99
+[24-Jan-2012 19:11:15] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/slocrus1/public_html/rides/index.php on line 68
+[24-Jan-2012 20:02:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ']' in /home/slocrus1/public_html/rides/gettimes.php on line 30
+[25-Jan-2012 02:51:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/index.php on line 83
+[25-Jan-2012 02:51:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/index.php on line 83
+[25-Jan-2012 02:51:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/index.php on line 83
+[25-Jan-2012 02:51:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/index.php on line 83
+[25-Jan-2012 02:52:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/index.php on line 84
+[25-Jan-2012 02:52:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/slocrus1/public_html/rides/index.php on line 84
+[25-Jan-2012 23:03:58] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/addDriver.php on line 61
+[25-Jan-2012 23:04:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/slocrus1/public_html/rides/addDriver.php on line 61
+[22-Feb-2012 12:02:58] PHP Parse error:  syntax error, unexpected '=' in /home/slocrus1/public_html/rides/resetdrivers.php on line 13
+[22-Feb-2012 13:51:37] PHP Warning:  include_once(scripts/include/GoogleMap.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/viewcar.php on line 33
+[22-Feb-2012 13:51:37] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'scripts/include/GoogleMap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/viewcar.php on line 33
+[22-Feb-2012 13:51:37] PHP Warning:  include_once(scripts/include/JSMin.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/viewcar.php on line 34
+[22-Feb-2012 13:51:37] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'scripts/include/JSMin.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/viewcar.php on line 34
+[22-Feb-2012 13:51:37] PHP Fatal error:  Class 'GoogleMapAPI' not found in /home/slocrus1/public_html/rides/viewcar.php on line 37
+[22-Feb-2012 13:52:49] PHP Warning:  require_once(DB.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:52:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'DB.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:45] PHP Warning:  require_once(DB.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'DB.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:48] PHP Warning:  require_once(DB.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'DB.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:50] PHP Warning:  require_once(DB.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'DB.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:55] PHP Warning:  require_once(DB.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'DB.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:58] PHP Warning:  require_once(DB.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:54:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'DB.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2512
+[22-Feb-2012 13:57:46] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2626
+[22-Feb-2012 13:57:46] PHP Warning:  file_get_contents(http://maps.google.com/maps/api/geocode/json?sensor=false&amp;address=Littleton%2C%20CO) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2626
+[22-Feb-2012 13:57:46] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2626
+[22-Feb-2012 13:57:46] PHP Warning:  file_get_contents(http://maps.google.com/maps/api/geocode/json?sensor=false&amp;address=Englewood%2C%20CO) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/slocrus1/public_html/rides/include/GoogleMap.php on line 2626
+[22-Feb-2012 14:23:40] PHP Fatal error:  Call to undefined function  domxml_new_doc() in /home/slocrus1/public_html/rides/viewcar.php on line 38
+[22-Feb-2012 14:29:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slocrus1/public_html/rides/viewcar.php:25) in /home/slocrus1/public_html/rides/viewcar.php on line 64
+[22-Feb-2012 14:57:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 25
+[22-Feb-2012 14:57:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 25
+[22-Feb-2012 14:57:57] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 25
+[22-Feb-2012 15:04:51] PHP Parse error:  syntax error, unexpected T_ECHO in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 36
+[23-Feb-2012 14:46:10] PHP Parse error:  syntax error, unexpected T_IF in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 52
+[23-Feb-2012 14:46:55] PHP Parse error:  syntax error, unexpected T_IF in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 53
+[23-Feb-2012 14:46:58] PHP Parse error:  syntax error, unexpected T_IF in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 53
+[23-Feb-2012 14:46:59] PHP Parse error:  syntax error, unexpected T_IF in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 53
+[23-Feb-2012 14:47:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 57
+[23-Feb-2012 14:48:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 57
+[23-Feb-2012 14:48:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 57
+[10-Sep-2012 15:09:13] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database '_slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:09:13] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[10-Sep-2012 15:09:21] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database '_slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:09:21] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[10-Sep-2012 15:10:05] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database 'slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:10:05] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[10-Sep-2012 15:11:54] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database '_slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:11:54] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[10-Sep-2012 15:49:29] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database '_slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:49:29] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[10-Sep-2012 15:52:28] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database '_slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:52:28] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[10-Sep-2012 15:54:24] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'slocrus1'@'localhost' to database '_slocru' in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 9
+[10-Sep-2012 15:54:24] PHP Warning:  mysqli::prepare() [<a href='mysqli.prepare'>mysqli.prepare</a>]: Couldn't fetch mysqli in /home1/slocrus1/public_html/rides/classes/Mysql.php on line 20
+[11-Sep-2012 12:32:05] PHP Warning:  require_once(../include/constants.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/slocrus1/public_html/rides/index.php on line 11
+[11-Sep-2012 12:32:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/constants.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/slocrus1/public_html/rides/index.php on line 11
+[11-Sep-2012 12:32:34] PHP Warning:  require_once(../include/constants.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/slocrus1/public_html/rides/index.php on line 11
+[11-Sep-2012 12:32:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/constants.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/slocrus1/public_html/rides/index.php on line 11
+[11-Sep-2012 15:11:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/index.php on line 115
+[11-Sep-2012 15:11:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/index.php on line 115
+[11-Sep-2012 15:11:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/index.php on line 115
+[11-Sep-2012 15:14:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/index.php on line 115
+[11-Sep-2012 15:14:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/index.php on line 115
+[11-Sep-2012 15:15:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/index.php on line 114
+[11-Sep-2012 15:15:08] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/index.php on line 114
+[11-Sep-2012 15:16:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/index.php on line 114
+[11-Sep-2012 15:16:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/index.php on line 114
+[11-Sep-2012 15:35:51] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/slocrus1/public_html/rides/index.php on line 131
+[11-Sep-2012 15:35:55] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/slocrus1/public_html/rides/index.php on line 131
+[11-Sep-2012 16:42:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/index.php on line 126
+[11-Sep-2012 16:52:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/index.php on line 118
+[12-Sep-2012 16:58:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/user.php on line 8
+[12-Sep-2012 16:58:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/user.php on line 8
+[12-Sep-2012 16:58:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 11
+[12-Sep-2012 16:59:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/user.php on line 8
+[12-Sep-2012 16:59:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/user.php on line 8
+[12-Sep-2012 16:59:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 11
+[12-Sep-2012 17:00:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/user.php on line 8
+[12-Sep-2012 17:00:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/user.php on line 8
+[12-Sep-2012 17:00:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 11
+[12-Sep-2012 17:01:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home1/slocrus1/public_html/rides/user.php on line 3
+[13-Sep-2012 18:11:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'info.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/slocrus1/public_html/rides/index.php on line 113
+[13-Sep-2012 18:15:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/slocrus1/public_html/rides/index.php on line 113
+[13-Sep-2012 18:15:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/slocrus1/public_html/rides/index.php on line 113
+[13-Sep-2012 18:16:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/slocrus1/public_html/rides/index.php on line 113
+[13-Sep-2012 18:17:27] PHP Parse error:  syntax error, unexpected '{' in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:33] PHP Parse error:  syntax error, unexpected '{' in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:36] PHP Parse error:  syntax error, unexpected '{' in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:51] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:53] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:55] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:56] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:17:57] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:18:32] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:18:33] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:18:36] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:18:38] PHP Fatal error:  Call to undefined function  isempty() in /home1/slocrus1/public_html/rides/index.php on line 112
+[13-Sep-2012 18:26:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 39
+[13-Sep-2012 18:27:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 39
+[13-Sep-2012 18:30:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:31:13] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:31:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:31:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:32:52] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:33:09] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:35:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 18:35:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 38
+[13-Sep-2012 19:03:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:03:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:03:18] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:03:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:03:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:03:44] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:03:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:04:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:04:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 54
+[13-Sep-2012 19:05:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 55
+[13-Sep-2012 19:06:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 55
+[13-Sep-2012 19:06:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 55
+[13-Sep-2012 19:07:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 55
+[13-Sep-2012 19:07:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 56
+[13-Sep-2012 19:09:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 55
+[13-Sep-2012 19:12:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:13:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:14:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:15:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:15:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:16:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:16:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:16:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:16:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:16:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:16:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:18:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:18:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[13-Sep-2012 19:18:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/user.php on line 65
+[14-Sep-2012 09:28:52] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home1/slocrus1/public_html/rides/index.php on line 116
+[14-Sep-2012 09:28:56] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home1/slocrus1/public_html/rides/index.php on line 116
+[14-Sep-2012 09:29:13] PHP Fatal error:  Call to undefined function  open() in /home1/slocrus1/public_html/rides/index.php on line 117
+[14-Sep-2012 11:36:25] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/newRide.php on line 83
+[14-Sep-2012 11:36:29] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/newRide.php on line 83
+[14-Sep-2012 11:36:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/newRide.php on line 79
+[14-Sep-2012 11:36:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/newRide.php on line 79
+[14-Sep-2012 11:36:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/newRide.php on line 80
+[14-Sep-2012 11:37:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/newRide.php on line 79
+[14-Sep-2012 11:37:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/newRide.php on line 79
+[14-Sep-2012 11:37:19] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/newRide.php on line 80
+[14-Sep-2012 11:57:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/main.php on line 64
+[14-Sep-2012 11:57:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/main.php on line 64
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 11:58:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 11:58:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:01:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:01:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 15
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:02:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 35
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 16
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 17
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 18
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 19
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 20
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:02:55] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/submit_ride.php on line 21
+[14-Sep-2012 12:04:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home1/slocrus1/public_html/rides/submit_ride.php on line 3
+[14-Sep-2012 12:09:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/submit_ride.php on line 46
+[14-Sep-2012 12:31:48] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/slocrus1/public_html/rides/main.php on line 70
+[14-Sep-2012 12:31:52] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/slocrus1/public_html/rides/main.php on line 70
+[14-Sep-2012 12:32:18] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/slocrus1/public_html/rides/main.php on line 70
+[14-Sep-2012 12:32:20] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/slocrus1/public_html/rides/main.php on line 70
+[14-Sep-2012 12:32:22] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/slocrus1/public_html/rides/main.php on line 70
+[14-Sep-2012 12:49:02] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/slocrus1/public_html/rides/viewRide.php on line 21
+[14-Sep-2012 12:49:23] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/viewRide.php on line 22
+[14-Sep-2012 12:49:27] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/viewRide.php on line 22
+[14-Sep-2012 12:49:46] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/viewRide.php on line 23
+[14-Sep-2012 12:49:50] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/viewRide.php on line 23
+[14-Sep-2012 12:51:00] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/viewRide.php on line 28
+[14-Sep-2012 12:51:01] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/viewRide.php on line 28
+[14-Sep-2012 12:51:13] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/viewRide.php on line 28
+[14-Sep-2012 12:51:16] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/viewRide.php on line 28
+[14-Sep-2012 13:32:06] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 71
+[14-Sep-2012 13:32:11] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 71
+[14-Sep-2012 13:32:44] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 71
+[14-Sep-2012 13:32:46] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 71
+[14-Sep-2012 13:34:35] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 72
+[14-Sep-2012 13:35:08] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 73
+[14-Sep-2012 13:35:10] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 73
+[14-Sep-2012 13:36:36] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 67
+[14-Sep-2012 13:36:38] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 67
+[14-Sep-2012 13:39:42] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 67
+[14-Sep-2012 13:40:02] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 67
+[14-Sep-2012 13:40:44] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/phpsqlajax_genxml.php on line 67
+[14-Sep-2012 15:08:44] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/viewRide.php on line 39
+[14-Sep-2012 15:08:47] PHP Parse error:  syntax error, unexpected '<' in /home1/slocrus1/public_html/rides/viewRide.php on line 39
+[14-Sep-2012 15:09:32] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/viewRide.php on line 38
+[14-Sep-2012 15:09:37] PHP Parse error:  syntax error, unexpected ';' in /home1/slocrus1/public_html/rides/viewRide.php on line 38
+[14-Sep-2012 19:39:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:39:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:39:05] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:39:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:39:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:39:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:40:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:40:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:40:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:40:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:40:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 24
+[14-Sep-2012 19:40:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:47:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:47:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:47:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 26
+[14-Sep-2012 19:48:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:48:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:48:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 26
+[14-Sep-2012 19:49:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:49:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 19:49:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 26
+[14-Sep-2012 20:02:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 20:02:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 25
+[14-Sep-2012 20:02:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 26
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 28
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 28
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 29
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 38
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 38
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 39
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 43
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 43
+[14-Sep-2012 20:17:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 44
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 29
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 29
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 30
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 39
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 39
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 40
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 44
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 44
+[14-Sep-2012 20:18:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 45
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 29
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 29
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 30
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 39
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 39
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 40
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/slocrus1/public_html/rides/seat.php on line 44
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/slocrus1/public_html/rides/seat.php on line 44
+[14-Sep-2012 20:20:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/seat.php on line 45
+[14-Sep-2012 23:35:05] PHP Fatal error:  Call to undefined function  mysql_db_rows() in /home1/slocrus1/public_html/rides/seat.php on line 43
+[15-Sep-2012 00:41:38] PHP Parse error:  syntax error, unexpected '}' in /home1/slocrus1/public_html/rides/seat.php on line 143
+[15-Sep-2012 00:42:45] PHP Parse error:  syntax error, unexpected '}' in /home1/slocrus1/public_html/rides/seat.php on line 143
+[15-Sep-2012 00:44:17] PHP Parse error:  syntax error, unexpected '}' in /home1/slocrus1/public_html/rides/seat.php on line 144
+[15-Sep-2012 00:44:19] PHP Parse error:  syntax error, unexpected '}' in /home1/slocrus1/public_html/rides/seat.php on line 144
+[15-Sep-2012 00:44:50] PHP Parse error:  syntax error, unexpected '}' in /home1/slocrus1/public_html/rides/seat.php on line 144
+[15-Sep-2012 00:47:26] PHP Parse error:  syntax error, unexpected '}' in /home1/slocrus1/public_html/rides/seat.php on line 121
+[15-Sep-2012 02:25:09] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 61
+[15-Sep-2012 02:25:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 61
+[15-Sep-2012 02:25:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/user.php on line 61
+[17-Sep-2012 00:11:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/submit_ride.php on line 38
+[17-Sep-2012 00:11:50] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/submit_ride.php on line 38
+[17-Sep-2012 00:12:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/submit_ride.php on line 38
+[17-Sep-2012 00:14:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/slocrus1/public_html/rides/submit_ride.php on line 38
+[17-Sep-2012 01:42:46] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home1/slocrus1/public_html/rides/user.php on line 107
+[17-Sep-2012 04:05:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[30-Sep-2012 22:30:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[07-Oct-2012 18:34:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[07-Oct-2012 22:59:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[09-Oct-2012 20:14:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[09-Oct-2012 23:23:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[10-Oct-2012 01:27:41] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[10-Oct-2012 11:03:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[10-Oct-2012 14:20:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[10-Oct-2012 15:33:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[23-Jan-2013 21:52:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 22:04:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 22:15:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[23-Jan-2013 22:16:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[23-Jan-2013 22:37:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[23-Jan-2013 22:48:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[23-Jan-2013 23:04:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 23:45:13] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 23:45:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 23:45:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 23:46:01] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[23-Jan-2013 23:47:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[24-Jan-2013 00:42:01] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 17
+[26-Jan-2013 22:20:57] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[06-Feb-2013 13:09:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[06-Feb-2013 13:11:09] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[29-Apr-2013 19:14:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[30-Apr-2013 13:40:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[30-Apr-2013 13:41:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[30-Apr-2013 13:41:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[17-Aug-2013 19:50:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[17-Aug-2013 19:50:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[17-Aug-2013 19:50:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[05-Sep-2013 19:25:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[05-Sep-2013 19:41:14] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[03-Oct-2013 20:14:13] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[04-Oct-2013 00:07:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[04-Oct-2013 00:08:08] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/slocrus1/public_html/rides/viewRide.php on line 96
+[10-Nov-2014 02:40:00 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[10-Nov-2014 02:40:00 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[10-Nov-2014 02:40:00 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[10-Nov-2014 02:40:01 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[10-Nov-2014 02:40:01 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[10-Nov-2014 02:40:01 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[11-Nov-2014 21:47:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[11-Nov-2014 21:47:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[11-Nov-2014 21:47:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[15-Nov-2014 01:47:34 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[15-Nov-2014 01:47:34 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[15-Nov-2014 01:47:34 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[24-Nov-2014 17:41:38 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[24-Nov-2014 17:41:38 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[24-Nov-2014 17:41:38 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[25-Nov-2014 03:39:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[25-Nov-2014 03:39:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[25-Nov-2014 03:39:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Dec-2014 15:22:00 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Dec-2014 15:22:00 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Dec-2014 15:22:00 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Dec-2014 15:22:07 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Dec-2014 15:22:07 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Dec-2014 15:22:07 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Dec-2014 15:39:14 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Dec-2014 15:39:14 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Dec-2014 15:39:14 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[18-Dec-2014 00:00:09 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[18-Dec-2014 00:00:09 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[18-Dec-2014 00:00:09 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[18-Dec-2014 00:00:12 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[18-Dec-2014 00:00:12 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[18-Dec-2014 00:00:12 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[18-Dec-2014 00:00:14 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[18-Dec-2014 00:00:14 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[18-Dec-2014 00:00:14 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Dec-2014 14:45:49 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Dec-2014 14:45:49 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Dec-2014 14:45:49 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[06-Jan-2015 17:53:07 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[06-Jan-2015 17:53:07 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[06-Jan-2015 17:53:07 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[06-Jan-2015 17:53:19 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[06-Jan-2015 17:53:19 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[06-Jan-2015 17:53:19 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[06-Jan-2015 17:53:26 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[06-Jan-2015 17:53:26 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[06-Jan-2015 17:53:26 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[06-Jan-2015 17:53:26 America/Denver] PHP Notice:  Undefined variable: rider_true in /home1/slocrus1/public_html/rides/viewRide.php on line 117
+[27-Jan-2015 13:57:58 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 13:57:58 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 13:57:58 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 13:58:08 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 13:58:08 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 13:58:08 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 13:58:19 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 13:58:19 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 13:58:19 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 13:58:19 America/Denver] PHP Notice:  Undefined variable: rider_true in /home1/slocrus1/public_html/rides/viewRide.php on line 117
+[27-Jan-2015 14:22:11 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 14:22:11 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 14:22:11 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 14:22:11 America/Denver] PHP Notice:  Undefined variable: rider_true in /home1/slocrus1/public_html/rides/viewRide.php on line 117
+[27-Jan-2015 18:59:07 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:07 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:07 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:28 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:28 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:28 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:34 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:34 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:34 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:34 America/Denver] PHP Notice:  Undefined variable: rider_true in /home1/slocrus1/public_html/rides/viewRide.php on line 117
+[27-Jan-2015 18:59:45 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:45 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:45 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:45 America/Denver] PHP Notice:  Undefined variable: name in /home1/slocrus1/public_html/rides/user.php on line 36
+[27-Jan-2015 18:59:46 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:46 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:46 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:50 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:50 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:50 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:52 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 18:59:52 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 18:59:52 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 18:59:52 America/Denver] PHP Notice:  Undefined variable: rider_true in /home1/slocrus1/public_html/rides/viewRide.php on line 117
+[27-Jan-2015 19:02:09 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:02:09 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:02:09 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 19:02:12 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:02:12 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:02:12 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 19:02:23 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:02:23 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:02:23 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 19:02:23 America/Denver] PHP Notice:  Undefined variable: name in /home1/slocrus1/public_html/rides/user.php on line 36
+[27-Jan-2015 19:02:39 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:02:39 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:02:39 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 19:02:39 America/Denver] PHP Notice:  Undefined variable: name in /home1/slocrus1/public_html/rides/user.php on line 36
+[27-Jan-2015 19:03:25 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:03:25 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:03:25 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 19:03:28 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:03:28 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:03:28 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jan-2015 19:23:23 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jan-2015 19:23:23 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jan-2015 19:23:23 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[16-Feb-2015 08:01:57 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[16-Feb-2015 08:01:57 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[16-Feb-2015 08:01:57 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[19-Feb-2015 08:32:40 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[19-Feb-2015 08:32:40 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[19-Feb-2015 08:32:40 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Mar-2015 00:14:20 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Mar-2015 00:14:21 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Mar-2015 00:14:24 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Mar-2015 00:14:24 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Mar-2015 00:14:24 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Mar-2015 00:14:25 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Mar-2015 00:14:25 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Mar-2015 00:14:25 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[06-Mar-2015 01:17:15 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[06-Mar-2015 01:17:15 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[06-Mar-2015 01:17:15 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[07-Mar-2015 05:40:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[07-Mar-2015 05:40:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[07-Mar-2015 05:40:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Mar-2015 20:27:16 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Mar-2015 20:27:16 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Mar-2015 20:27:16 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[08-Apr-2015 07:28:37 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[08-Apr-2015 07:28:37 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[08-Apr-2015 07:28:37 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[21-Apr-2015 21:11:38 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[21-Apr-2015 21:11:38 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[21-Apr-2015 21:11:38 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[26-Apr-2015 16:07:35 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[26-Apr-2015 16:07:35 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[26-Apr-2015 16:07:35 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[12-May-2015 22:04:47 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[12-May-2015 22:04:47 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[12-May-2015 22:04:47 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-May-2015 00:45:41 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-May-2015 00:45:41 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-May-2015 00:45:41 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-May-2015 09:05:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-May-2015 09:05:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-May-2015 09:05:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-May-2015 13:54:35 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-May-2015 13:54:35 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-May-2015 13:54:36 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-May-2015 14:44:25 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-May-2015 14:44:25 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-May-2015 14:44:25 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-May-2015 15:43:50 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-May-2015 15:43:50 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-May-2015 15:43:50 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[15-May-2015 23:08:52 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[15-May-2015 23:08:52 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[15-May-2015 23:08:52 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[21-May-2015 01:38:33 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[21-May-2015 01:38:33 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[21-May-2015 01:38:33 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[25-May-2015 02:22:10 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[25-May-2015 02:22:10 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[25-May-2015 02:22:11 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[28-May-2015 00:25:52 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[28-May-2015 00:25:52 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[28-May-2015 00:25:52 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Jun-2015 23:17:07 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Jun-2015 23:17:07 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Jun-2015 23:17:07 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[03-Jun-2015 16:48:57 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[03-Jun-2015 16:48:57 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[03-Jun-2015 16:48:57 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Jun-2015 04:57:45 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Jun-2015 04:57:45 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Jun-2015 04:57:45 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Jun-2015 06:51:39 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Jun-2015 06:51:39 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Jun-2015 06:51:39 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Jun-2015 10:21:45 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Jun-2015 10:21:45 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Jun-2015 10:21:45 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[06-Jun-2015 11:31:18 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[06-Jun-2015 11:31:18 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[06-Jun-2015 11:31:18 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[07-Jun-2015 06:25:55 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[07-Jun-2015 06:25:55 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[07-Jun-2015 06:25:55 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[10-Jun-2015 17:05:03 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[10-Jun-2015 17:05:03 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[10-Jun-2015 17:05:03 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[11-Jun-2015 19:04:48 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[11-Jun-2015 19:04:48 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[11-Jun-2015 19:04:48 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-Jun-2015 23:14:33 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-Jun-2015 23:14:33 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-Jun-2015 23:14:33 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[18-Jun-2015 08:43:38 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[18-Jun-2015 08:43:38 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[18-Jun-2015 08:43:38 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[21-Jun-2015 11:08:05 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[21-Jun-2015 11:08:05 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[21-Jun-2015 11:08:05 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[30-Jul-2015 16:04:58 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[30-Jul-2015 16:04:58 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[30-Jul-2015 16:04:58 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[08-Aug-2015 16:11:10 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[08-Aug-2015 16:11:10 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[08-Aug-2015 16:11:10 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Aug-2015 10:15:27 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Aug-2015 10:15:27 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Aug-2015 10:15:27 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Aug-2015 10:15:27 America/Denver] PHP Notice:  Undefined variable: rider_true in /home1/slocrus1/public_html/rides/viewRide.php on line 117
+[09-Aug-2015 10:15:28 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Aug-2015 10:15:28 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Aug-2015 10:15:28 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Aug-2015 10:15:33 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Aug-2015 10:15:33 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Aug-2015 10:15:33 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Aug-2015 10:15:33 America/Denver] PHP Notice:  Undefined variable: name in /home1/slocrus1/public_html/rides/user.php on line 36
+[09-Aug-2015 10:15:42 America/Denver] PHP Notice:  Undefined index: user_id in /home1/slocrus1/public_html/rides/seat.php on line 22
+[09-Aug-2015 10:15:42 America/Denver] PHP Notice:  Undefined variable: pending in /home1/slocrus1/public_html/rides/seat.php on line 248
+[09-Aug-2015 10:15:43 America/Denver] PHP Notice:  Undefined variable: pending in /home1/slocrus1/public_html/rides/seat.php on line 248
+[09-Aug-2015 10:15:45 America/Denver] PHP Notice:  Undefined variable: pending in /home1/slocrus1/public_html/rides/seat.php on line 248
+[09-Aug-2015 10:15:50 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Aug-2015 10:15:50 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Aug-2015 10:15:50 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Aug-2015 10:15:50 America/Denver] PHP Notice:  Undefined variable: name in /home1/slocrus1/public_html/rides/user.php on line 36
+[09-Aug-2015 10:15:52 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Aug-2015 10:15:52 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Aug-2015 10:15:52 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[25-Aug-2015 04:36:31 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[25-Aug-2015 04:36:31 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[25-Aug-2015 04:36:31 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[25-Aug-2015 09:35:19 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[25-Aug-2015 09:35:19 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[25-Aug-2015 09:35:19 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[18-Sep-2015 18:05:55 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[18-Sep-2015 18:05:55 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[18-Sep-2015 18:05:55 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[20-Sep-2015 23:40:02 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[20-Sep-2015 23:40:02 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[20-Sep-2015 23:40:02 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[28-Sep-2015 19:19:51 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[28-Sep-2015 19:19:51 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[28-Sep-2015 19:19:51 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[30-Sep-2015 23:12:41 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[30-Sep-2015 23:12:41 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[30-Sep-2015 23:12:41 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[16-Oct-2015 08:46:40 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[16-Oct-2015 08:46:41 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[16-Oct-2015 08:46:41 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[31-Oct-2015 07:32:44 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[31-Oct-2015 07:32:44 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[31-Oct-2015 07:32:44 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[01-Nov-2015 00:35:59 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[01-Nov-2015 00:36:00 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[01-Nov-2015 00:36:00 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[03-Nov-2015 20:32:02 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[03-Nov-2015 20:32:02 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[03-Nov-2015 20:32:02 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Nov-2015 12:16:24 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Nov-2015 12:16:24 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Nov-2015 12:16:24 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[07-Nov-2015 17:13:43 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[07-Nov-2015 17:13:43 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[07-Nov-2015 17:13:43 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[14-Nov-2015 07:30:20 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[14-Nov-2015 07:30:20 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[14-Nov-2015 07:30:21 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[08-Dec-2015 20:21:58 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[08-Dec-2015 20:21:58 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[08-Dec-2015 20:21:58 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Dec-2015 07:15:53 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Dec-2015 07:15:53 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Dec-2015 07:15:53 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Dec-2015 18:35:12 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Dec-2015 18:35:12 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Dec-2015 18:35:12 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[17-Dec-2015 19:15:21 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[17-Dec-2015 19:15:21 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[17-Dec-2015 19:15:21 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[17-Dec-2015 19:17:03 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[17-Dec-2015 19:17:03 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[17-Dec-2015 19:17:03 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[17-Dec-2015 19:24:54 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[17-Dec-2015 19:24:54 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[17-Dec-2015 19:24:54 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[18-Dec-2015 01:17:03 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[18-Dec-2015 01:17:03 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[18-Dec-2015 01:17:03 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[19-Dec-2015 14:08:11 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[19-Dec-2015 14:08:11 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[19-Dec-2015 14:08:11 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[19-Dec-2015 17:23:50 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[19-Dec-2015 17:23:50 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[19-Dec-2015 17:23:50 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[26-Dec-2015 23:27:42 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[26-Dec-2015 23:27:42 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[26-Dec-2015 23:27:42 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[28-Dec-2015 11:50:44 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[28-Dec-2015 11:50:44 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[28-Dec-2015 11:50:44 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[29-Dec-2015 08:05:48 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[29-Dec-2015 08:05:48 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[29-Dec-2015 08:05:48 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[31-Dec-2015 17:28:09 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[31-Dec-2015 17:28:09 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[31-Dec-2015 17:28:09 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[31-Dec-2015 19:13:08 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[31-Dec-2015 19:13:08 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[31-Dec-2015 19:13:08 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[03-Jan-2016 06:11:57 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[03-Jan-2016 06:11:57 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[03-Jan-2016 06:11:57 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[03-Jan-2016 12:50:15 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[03-Jan-2016 12:50:15 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[03-Jan-2016 12:50:15 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[03-Jan-2016 12:51:57 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[03-Jan-2016 12:51:57 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[03-Jan-2016 12:51:57 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[11-Jan-2016 08:27:13 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[11-Jan-2016 08:27:13 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[11-Jan-2016 08:27:14 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[16-Jan-2016 15:55:29 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[16-Jan-2016 15:55:29 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[16-Jan-2016 15:55:29 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[17-Jan-2016 07:46:47 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[17-Jan-2016 07:46:47 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[17-Jan-2016 07:46:47 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Jan-2016 06:47:13 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Jan-2016 06:47:13 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Jan-2016 06:47:13 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[13-Feb-2016 07:23:44 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[13-Feb-2016 07:23:44 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[13-Feb-2016 07:23:44 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[15-Feb-2016 20:28:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[15-Feb-2016 20:28:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[15-Feb-2016 20:28:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[15-Feb-2016 20:29:26 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[15-Feb-2016 20:29:26 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[15-Feb-2016 20:29:27 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[16-Feb-2016 13:10:13 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[16-Feb-2016 13:10:13 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[16-Feb-2016 13:10:13 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[28-Feb-2016 03:23:42 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[28-Feb-2016 03:23:42 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[28-Feb-2016 03:23:42 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[01-Mar-2016 20:06:25 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[01-Mar-2016 20:06:25 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[01-Mar-2016 20:06:25 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Mar-2016 21:31:19 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Mar-2016 21:31:19 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Mar-2016 21:31:19 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:12:07 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:12:07 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:12:07 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:12:31 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:12:31 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:12:31 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:13:25 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:13:25 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:13:25 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:13:35 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:13:35 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:13:35 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:13:35 America/Denver] PHP Notice:  Undefined variable: name in /home1/slocrus1/public_html/rides/user.php on line 36
+[23-Mar-2016 15:13:39 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:13:39 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:13:39 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:13:41 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:13:41 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:13:41 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[23-Mar-2016 15:13:43 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[23-Mar-2016 15:13:43 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[23-Mar-2016 15:13:43 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[16-Apr-2016 13:04:31 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[16-Apr-2016 13:04:31 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[16-Apr-2016 13:04:31 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[17-May-2016 11:59:36 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[17-May-2016 11:59:36 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[17-May-2016 11:59:36 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[24-Jun-2016 22:03:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[24-Jun-2016 22:03:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[24-Jun-2016 22:03:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[24-Jun-2016 22:03:56 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[24-Jun-2016 22:03:56 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[24-Jun-2016 22:03:56 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Jul-2016 10:27:52 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Jul-2016 10:27:52 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Jul-2016 10:27:52 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[04-Jul-2016 13:51:22 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[04-Jul-2016 13:51:22 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[04-Jul-2016 13:51:22 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[09-Jul-2016 20:49:55 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[09-Jul-2016 20:49:55 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[09-Jul-2016 20:49:55 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[27-Jul-2016 22:34:18 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[27-Jul-2016 22:34:18 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[27-Jul-2016 22:34:18 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[30-Jul-2016 13:16:03 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[30-Jul-2016 13:16:03 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[30-Jul-2016 13:16:03 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69
+[02-Aug-2016 16:55:11 America/Denver] PHP Notice:  Undefined index: msg in /home1/slocrus1/public_html/rides/index.php on line 4
+[02-Aug-2016 16:55:11 America/Denver] PHP Notice:  Undefined index: type in /home1/slocrus1/public_html/rides/index.php on line 5
+[02-Aug-2016 16:55:11 America/Denver] PHP Notice:  Undefined variable: str_language in /home1/slocrus1/public_html/rides/index.php on line 69

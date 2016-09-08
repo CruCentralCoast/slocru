@@ -1,0 +1,135 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 19, 2015, 2:13:48 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBook";
+    src: url('../fonts/FreigSanProBook.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+.title {
+    text-align: center;
+    font-size: 18pt;
+    font-family: "FreightSansProSemiBold";
+    color: #007398;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.select-team {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 100px;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-style: solid;
+}
+
+#sidebar {
+    float: right;
+    width: 33.333333333%;
+    background: #F5F5F5;
+    height: 600pt;
+}
+
+#list {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.teams {
+    margin-top: 5pt;
+    border: none;
+    font-family: "FreightSansProMedium";
+    font-size: 13pt;
+    color: #3eb1c8;
+    height: 28pt;
+}
+
+#content {
+    float: left;
+    width: 66.666666666%;
+    background: url(../img/ministry/background.jpg);
+    background-repeat: no-repeat;
+    height: 600pt;
+}
+
+.select {
+    font-family: "FreightSansProBold";
+    font-size: 24pt;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 15pt;
+    padding-bottom: 15pt;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1pt;
+}
+
+.ministry {
+    background-color: #ffffff;
+    margin-left: 130pt;
+    margin-right: 130pt;
+    margin-top: 40pt;
+}
+
+.photo {
+    margin-top: 10pt;
+    width: 400px;
+    /*height: 300px;*/
+}
+
+.ministry-name {
+    margin-top: 15pt;
+    text-align: center;
+    font-size: 14pt;
+    font-family: "FreightSansProSemiBold";
+    color: #3eb1c8;
+}
+
+.description {
+    margin-left: 25pt;
+    margin-right: 25pt;
+    font-family: "FreightSansProBook";
+    font-size: 11pt;
+    color: #666062
+}
+
+.sign-up{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: #f9b625;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+.sign-up:hover {
+    color: white;
+}

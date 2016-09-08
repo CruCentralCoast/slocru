@@ -1,0 +1,165 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2014, 6:47:42 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProItalic";
+    src: url('../fonts/FreigSanProLigIt.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+.middle {
+    padding-top: 15pt;
+    height: 175pt;
+    background-color: #f5f5f5;
+}
+
+.column {
+    float: left;
+    width: 33.3%;
+}
+
+p.about {
+    margin-top: 30pt;
+    text-align: center;
+    font-size: 14pt;
+    font-family: "FreightSansProSemiBold";
+    color: #666062;
+}
+
+p.mission {
+    font-family: "FreightSansProItalic";
+    font-size: 13pt;
+    text-align: center;
+    color: #dd7d1b;
+}
+
+.learn-more-button {
+    margin-top: 15pt;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.learn-more {
+    text-align: center;
+    font-family: "FreightSansProLight";
+    font-size: 9pt;
+    color: #666062;
+    border: 1pt solid #666062;
+}
+
+#line1 {
+    margin-top: -4pt;
+}
+
+#line2 {
+    margin-top: -8pt;
+}
+
+p.meeting {
+    margin-top: 30pt;
+    text-align: center;
+    font-size: 14pt;
+    font-family: "FreightSansProSemiBold";
+    color: #007398;
+}
+
+.meeting-info {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    text-align: center;
+    color: #666062;
+}
+
+span.time {
+    font-family: "FreightSansProMedium";
+    font-size: 12pt;
+    text-align: center;
+    color: #3eb1c8;
+}
+
+.break {
+    margin-left: 40pt;
+    margin-right: 40pt;
+    border-top-width: 1pt;
+    border-top-style: solid;
+    border-top-color: #e4e5e4;
+}
+
+.address {
+    font-family: "FreightSansProLight";
+    font-size: 10pt;
+    text-align: center;
+}
+
+.directions-button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30pt;
+    height: 30pt;
+    width: 208pt;
+    background-color: #3eb1c8;
+}
+
+.livestream-button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10pt;
+    height: 30pt;
+    width: 208pt;
+    background-color: #007398;
+}
+
+p.button {
+    text-align: center;
+    padding-top: 5pt;
+    font-family: "FreightSansProSemiBold";
+    font-size: 14pt;
+    color: #ffffff;
+}
+
+.bottom {
+    padding-top: 10pt;
+    height: 215pt;
+    background-color: #626262;
+}
+
+img.holder {
+    float: left;
+    width: 232pt;
+    height: 148pt;
+    margin-top: 26pt;
+    margin-left: 25pt;
+    border: 8pt solid #ffffff;
+}
+
+.wrap {
+    float: left;
+    width: 33.3%;
+}
