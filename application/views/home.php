@@ -2,7 +2,7 @@
     <div class="slider-wrapper theme-default hidden-xs">
         <div id="slider" class="nivoSlider">
             <a href="<?php echo base_url(); ?>">
-                <img src="../assets/img/slides/Banner1_SLOCRU.png"/>
+                <!--<img src="../assets/img/slides/Banner1_SLOCRU.png"/> -->
             </a>
             <?php
                 for ($i = 0; $i < count($events); $i++) {
