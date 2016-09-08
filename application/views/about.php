@@ -73,7 +73,7 @@
     <div class="bottom">
         <div class="div-history">
             <div class="button-history">
-                <a href="history" target="_blank">
+                <a href="history">
                     <p class="button link-light">LEARN MORE ABOUT<br>THE HISTORY OF CRU</p>
                 </a>
             </div>
