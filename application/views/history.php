@@ -118,11 +118,9 @@
                 Find more information on the entire<br /><br />
             </p>
             <div class="button-history">
-                <p class="text-dark link-out">
-                    <a href="http://www.cru.org/about/what-we-do/milestones.html" target="_blank">
-                        HISTORY OF CRU
-                    </a>
-                </p>
+                <a href="http://www.cru.org/about/what-we-do/milestones.html" target="_blank">
+                    HISTORY OF CRU
+                </a>
             </div>
         </div>
     </div>
