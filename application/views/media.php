@@ -2,7 +2,11 @@
     <div class="column left">
         <p class="heading-gallery">PHOTO GALLERY</p>
         <a href="construction">
+<<<<<<< HEAD
+            <img src="../../assets/img/placeholders/fallretreat2014.jpg" class="top-album">
+=======
 			<img src="../../assets/img/placeholders/fallretreat2014.jpg" class="top-album">
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
         </a>
         <p class="gallery-name">Fall Retreat 2014</p>
         <div class="column gallery-pain-left">
@@ -37,6 +41,10 @@
     <div class="column right">
         <div class="column middle">
             <p class="headings">FACEBOOK</p>
+<<<<<<< HEAD
+            <div class="coming">
+                <p class="coming">Facebook feed Coming Soon</p>
+=======
             <div class="facebook">
                 
                 <?php
@@ -112,12 +120,16 @@
                         echo '</div>';//'<hr/>';//ends the post
                     }
                 ?>
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
             </div>
         </div>
         <div class="column far-right">
             <div class="column right-top">
                 <p class="headings">YOUTUBE</p>
                 <div class="youtube-vid">
+<<<<<<< HEAD
+                    <p class="coming">Youtube Videos Coming Soon</p>
+=======
                     <!--<p class="coming">Youtube Videos Coming Soon</p>-->
                     <?php
                         
@@ -149,6 +161,7 @@
                         //phpAlert( get_youtube($url)["html"] );
                         //phpAlert("hello");
                     ?>
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
                 </div>
             </div>
             <div class="column right-middle">

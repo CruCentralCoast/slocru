@@ -8,6 +8,13 @@ class Event_model extends CI_Model
     /**
      * Function to return event informtion
      */
+<<<<<<< HEAD
+    function getEvents()
+    {
+        $result = $this->db->select('*')->from('events')->order_by('date')->get();
+        return $result->result();
+    }
+=======
     /*function getEvents()
     {
         $result = $this->db->select('*')->from('events')->order_by('date')->get();
@@ -21,6 +28,7 @@ class Event_model extends CI_Model
         return $body;
     }
 
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
     
     function saveEvent($event)
     {

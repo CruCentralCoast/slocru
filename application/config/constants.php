@@ -38,6 +38,10 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 
 /* End of file constants.php */
+<<<<<<< HEAD
+/* Location: ./application/config/constants.php */
+=======
 /* Location: ./application/config/constants.php */
 
 define("API_URL", "http://secure-oasis-4438.herokuapp.com");
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd

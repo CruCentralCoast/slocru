@@ -4,12 +4,22 @@
             <a href="<?php echo base_url(); ?>">
                 <img src="../assets/img/slides/Banner1_SLOCRU.png"/>
             </a>
+<<<<<<< HEAD
+            <img src="../assets/img/slides/sharingtimes.jpg"/>
+            <?php
+            for ($i = 0; $i < count($events); $i++) {
+                if ($events[$i]->ShowSlide != 0) {
+                    echo '<a href="' . base_url() . 'events#' . $events[$i]->Id .'"><img src="' . $events[$i]->Image . '"/></a>';
+                }
+            }
+=======
             <?php
                 for ($i = 0; $i < count($events); $i++) {
                     if (property_exists($events[$i], "image")) {
                         echo '<a href="' . base_url() . 'events#' . $events[$i]->_id .'"><img src="' . $events[$i]->image->url . '"/></a>';
                     }
                 }
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
             ?>
         </div>
     </div>

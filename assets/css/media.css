@@ -8,10 +8,13 @@ and open the template in the editor.
     Author     : kylereis
 */
 
+<<<<<<< HEAD
+=======
 html {
     min-width: 1000px;
 }
 
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
 @font-face {
     font-family: "FreightSansProLight";
     src: url('../fonts/FreigSanProLig.otf') format('opentype');
@@ -134,7 +137,11 @@ p.coming {
 
 .youtube-vid {
     width: 226pt;
+<<<<<<< HEAD
+    background-color: #f9b625;
+=======
     background-color: none;
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
     height: 120pt;
 }
 
@@ -154,6 +161,8 @@ p.coming {
     background-color: #f9b625;
     height: 82pt;
 }
+<<<<<<< HEAD
+=======
 
 .facebook {
     height: 305pt;
@@ -188,3 +197,4 @@ p.coming {
 .fb-username:hover {
     text-decoration: underline;
 }
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd

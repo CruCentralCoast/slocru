@@ -1,0 +1,43 @@
+RewriteEngine On
+RewriteBase /rides/
+
+#
+# Rewrite rules for rides to church.
+# Hide all php get codes
+#
+
+#RewriteRule ^loc=([a-zA-Z0-9_-]+)$ index.php?dest=$1
+#RewriteRule ^loc=([a-zA-Z0-9_-]+)/$ index.php?dest=$1
+
+RewriteRule ^loc/([a-zA-Z0-9_-]+)$ index.php?dest=$1
+RewriteRule ^loc/([a-zA-Z0-9_-]+)/$ index.php?dest=$1
+
+
+#RewriteRule ^?page=user&id=([a-zA-Z0-9_-]+)$ user/$1
+
+#RewriteRule ^user/([a-zA-Z0-9_-]+)$ index.php?page=user&id=$1
+RewriteRule ^user/$ index.php?page=user
+RewriteRule ^user$ index.php?page=user
+
+RewriteRule ^new/$ index.php?page=newRide
+RewriteRule ^new$ index.php?page=newRide
+
+RewriteRule ^about/$ index.php?page=about
+RewriteRule ^about$ index.php?page=about
+
+
+RewriteRule ^view/([a-zA-Z0-9_-]+)/$ index.php?page=viewRide&ride_id=$1
+RewriteRule ^view/([a-zA-Z0-9_-]+)$ index.php?page=viewRide&ride_id=$1
+
+RewriteRule ^request/([a-zA-Z0-9_-]+)/$ index.php?page=seat&action=request&ride_id=$1
+RewriteRule ^request/([a-zA-Z0-9_-]+)$ index.php?page=seat&action=request&ride_id=$1
+
+# http://slocru.com/rides/seat.php?action=add&ride_id=11&pass_id=805837737
+RewriteRule ^add/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ index.php?page=seat&action=add&ride_id=$1&pass_id=$2
+RewriteRule ^add/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ index.php?page=seat&action=add&ride_id=$1&pass_id=$2
+
+RewriteRule ^remove/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ index.php?page=seat&action=remove&ride_id=$1&pass_id=$2&pend=$3
+RewriteRule ^remove/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ index.php?page=seat&action=remove&ride_id=$1&pass_id=$2&pend=$3
+
+RewriteRule ^delete/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ seat.php?action=delete&ride_id=$1&pass_id=$2
+RewriteRule ^delete/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ seat.php?action=delete&ride_id=$1&pass_id=$2
