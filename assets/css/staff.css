@@ -8,6 +8,17 @@ and open the template in the editor.
     Author     : kylereis
 */
 
+<<<<<<< HEAD
+=======
+html {
+    min-width: 1000px;
+}
+
+/*body {
+    min-width: 1000px;
+}*/
+
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
 @font-face {
     font-family: "FreightSansProLight";
     src: url('../fonts/FreigSanProLig.otf') format('opentype');
@@ -33,7 +44,11 @@ and open the template in the editor.
     flex-wrap: wrap;
     -webkit-flex-wrap: wrap;
     justify-content: flex-start;
+<<<<<<< HEAD
     justify-content: -webkit-flex-start;
+=======
+    -webkit-justify-content: -webkit-flex-start;
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
 }
 
 .header-mtl {
@@ -72,7 +87,11 @@ and open the template in the editor.
 }
 
 .intern {
+<<<<<<< HEAD
     background-color: #F5F5F5; //5% grey
+=======
+    background-color: #F5F5F5; /*5% grey*/
+>>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
     width: 1170px;
     display:flex;
     display: -webkit-flex;
