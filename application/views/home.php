@@ -2,15 +2,14 @@
     <div class="slider-wrapper theme-default hidden-xs">
         <div id="slider" class="nivoSlider">
             <a href="<?php echo base_url(); ?>">
-                <img src="../assets/img/slides/Banner1_SLOCRU.png"/>
+                <!--<img src="../assets/img/slides/Banner1_SLOCRU.png"/>-->
             </a>
-            <img src="../assets/img/slides/sharingtimes.jpg"/>
             <?php
-            for ($i = 0; $i < count($events); $i++) {
-                if ($events[$i]->ShowSlide != 0) {
-                    echo '<a href="' . base_url() . 'events#' . $events[$i]->Id .'"><img src="' . $events[$i]->Image . '"/></a>';
+                for ($i = 0; $i < count($events); $i++) {
+                    if (property_exists($events[$i], "image")) {
+                        echo '<a href="' . base_url() . 'events#' . $events[$i]->_id .'"><img src="' . $events[$i]->bannerImageLink . '"/></a>';
+                    }
                 }
-            }
             ?>
         </div>
     </div>
