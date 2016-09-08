@@ -7,7 +7,7 @@
             <?php
                 for ($i = 0; $i < count($events); $i++) {
                     if (property_exists($events[$i], "image")) {
-                        echo '<a href="' . base_url() . 'events#' . $events[$i]->_id .'"><img src="' . $events[$i]->image->url . '"/></a>';
+                        echo '<a href="' . base_url() . 'events#' . $events[$i]->_id .'"><img src="' . $events[$i]->bannerImageLink . '"/></a>';
                     }
                 }
             ?>
