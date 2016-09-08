@@ -4,15 +4,9 @@ class Staff extends CI_Controller {
         parent::__construct();
         $this->load->model('staff_model', '', true);
     }
-<<<<<<< HEAD
     
     public function index() {
         
-=======
-
-    public function index() {
-
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
         $data['mtl'] = $this->staff_model->getMTL();
         $data['staff'] = $this->staff_model->getStaff();
         $data['intern'] = $this->staff_model->getIntern();

@@ -1,5 +1,4 @@
 /*
-<<<<<<< HEAD
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
@@ -9,11 +8,6 @@ and open the template in the editor.
     Author     : kylereis
 */
 
-=======
-    Created on : Nov 17, 2014, 6:47:42 PM
-    Author     : kylereis
-*/
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
 @font-face {
     font-family: "FreightSansProBold";
     src: url('../fonts/FreigSanProBold.otf') format('opentype');
@@ -168,12 +162,4 @@ img.holder {
 .wrap {
     float: left;
     width: 33.3%;
-<<<<<<< HEAD
-=======
-}
-
-#slider {
-    height: 250px;
-    object-fit: scale-down
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
 }

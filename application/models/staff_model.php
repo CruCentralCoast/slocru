@@ -10,11 +10,7 @@ class Staff_model extends CI_Model
 
     /**
      * Function to return user informtion
-<<<<<<< HEAD
      * 
-=======
-     *
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
      * @param String Username
      * @return Array of users
      */
@@ -23,21 +19,13 @@ class Staff_model extends CI_Model
         $result = $this->db->select('*')->from('staff')->where('group', "mtl")->get();
         return $result->result();
     }
-<<<<<<< HEAD
     
-=======
-
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
     function getStaff()
     {
         $result = $this->db->select('*')->from('staff')->where('group', "staff")->get();
         return $result->result();
     }
-<<<<<<< HEAD
     
-=======
-
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
     function getIntern()
     {
         $result = $this->db->select('*')->from('staff')->where('group', "intern")->get();

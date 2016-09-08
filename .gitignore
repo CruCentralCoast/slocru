@@ -6,7 +6,6 @@ htdocs/nbproject/private/private.xml
 slocru/
 
 .idea
-<<<<<<< HEAD
 
 .htaccess.*
 backup.*
@@ -22,5 +21,3 @@ robots.txt
 top_link.png
 uploads/
 well/
-=======
->>>>>>> 550b510db1043461989ad293a1f567c94694e9dd
