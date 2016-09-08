@@ -117,11 +117,9 @@
                 And we are a single family doing this together. Together, we are Cru Central Coast.<br /><br />
                 Find more information on the entire<br /><br />
             </p>
-            <div class="button-history">
-                <a href="http://www.cru.org/about/what-we-do/milestones.html" target="_blank">
-                    HISTORY OF CRU
-                </a>
-            </div>
+            <a class="button-history" href="http://www.cru.org/about/what-we-do/milestones.html" target="_blank">
+                <p>HISTORY OF CRU</p>
+            </a>
         </div>
     </div>
 </div>
