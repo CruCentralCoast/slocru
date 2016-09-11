@@ -5,7 +5,7 @@
                 ABOUT US
             </p>
             <p class="text-dark">
-                SLO Cru and CRU Central Coast are a part of
+                Cru Central Coast is a part of
                 <a href="http://www.cru.org/">Cru</a>
                 (formerly <i>Campus Crusade for Christ Int'l.</i>), an
                 interdenominational, worldwide Christian ministry with the goal

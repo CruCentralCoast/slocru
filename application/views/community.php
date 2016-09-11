@@ -15,7 +15,7 @@
     <div class="row text-center">
         <!-- Button trigger modal -->
         <div class="container" style="width: 80%; font-size: 18pt; text-align: justify; font-weight: 300;">
-            Slo cru believes that  bible studies are one of the most effective ways 
+            Cru believes that  bible studies are one of the most effective ways
             to get involved and integrated in the community of believers here in San Luis Obispo. 
             In order to foster a comfortable and open environment, students are grouped with their 
             peers and organized based on gender, year, dorm, and interests. Click the button below 
