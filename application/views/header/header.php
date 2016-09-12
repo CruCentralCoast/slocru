@@ -32,13 +32,13 @@ $this->load->helper('url');
                     <a href="https://www.youtube.com/user/slocrusade" target="_blank">
                         <img src="../assets/img/youtube.png" class="social-youtube" id="youtube"/>
                     </a>
-                    <a href="https://twitter.com/SLOcru" target="_blank">
+                    <a href="https://twitter.com/CruCalPolySLO" target="_blank">
                         <img src="../assets/img/twitter.png" class="social" id="twitter"/>
                     </a>
-                    <a href="http://instagram.com/slocru/" target="_blank">
+                    <a href="https://www.instagram.com/crucalpolyslo/" target="_blank">
                         <img src="../assets/img/instagram.png" class="social" id="instagram"/>
                     </a>
-                    <a href="https://www.facebook.com/SloCrusade" target="_blank">
+                    <a href="https://www.facebook.com/CruCalPolySLO/" target="_blank">
                         <img src="../assets/img/facebook.png" class="social" id="facebook"/>
                     </a>
                     <a href="https://crucentralcoast.com">
