@@ -65,7 +65,7 @@
         </a>
     </div>
     <div class="wrap">
-        <a href="">
+        <a href="https://www.facebook.com/groups/1810897575812604/" target="_blank">
             <img src="../assets/img/image-holder3.jpg" class="holder" id="holder3"/>
         </a>
     </div>
