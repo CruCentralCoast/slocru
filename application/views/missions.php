@@ -7,11 +7,11 @@
     <div class="box" id="missions">
         <p class="missions-header">MISSIONS OPPORTUNITIES</p>
         <p class="missions">
-            <br>With SLO Cru you have the opportunity to serve 
+            <br>With Cru you have the opportunity to serve
             <br>Stateside or overseas for a summer or even a 
             <br>whole year! There are hundreds of locations all 
             <br>around the world to choose from, including a few 
-            <br>partnerships that are specific to SLO Cru! 
+            <br>partnerships that are specific to Cru Central Coast!
             <br>
             <br>Our current Stateside partnerships for Summer 
             <br>Missions are: <a class="mission-link" href="http://www.cru.org/opportunities/mission-trips/summer/explore/destinations.html?tripid=408">Santa Monica</a>, CA; <a class="mission-link" href="http://www.cru.org/opportunities/mission-trips/summer/explore/destinations.html?tripid=329">Ocean City</a>, NJ; 
