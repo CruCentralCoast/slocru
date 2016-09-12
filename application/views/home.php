@@ -17,7 +17,7 @@
 <div class="container middle">
     <div class="column">
         <div class="text">
-            <p class="about">WHAT IS SLO CRU?</p>
+            <p class="about">WHAT IS CRU?</p>
             <p class="mission" id="line1">A caring community passionate about</p>
             <p class="mission" id="line2">connecting people to Jesus Christ.</p>
             <div class="learn-more-button">
@@ -29,7 +29,7 @@
     </div>
     <div class="column">
         <div class="text">
-            <p class="meeting">SLO CRU WEEKLY MEETING</p>
+            <p class="meeting">CRU WEEKLY MEETING</p>
             <p class="meeting-info" id="line1"><span class="time">Tuesdays at 8pm</span> (doors open at 7:30pm)</p>
             <p class="meeting-info" id="line2">Mountainbrook Community Church</p>
             <p class="break"></p>
@@ -65,7 +65,7 @@
         </a>
     </div>
     <div class="wrap">
-        <a href="https://www.facebook.com/groups/286005258236719/">
+        <a href="https://www.facebook.com/groups/1810897575812604/" target="_blank">
             <img src="../assets/img/image-holder3.jpg" class="holder" id="holder3"/>
         </a>
     </div>

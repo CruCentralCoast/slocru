@@ -1,0 +1,130 @@
+/*
+    author: connor batch
+*/
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProBookIt";
+    src: url('../fonts/FreigSanProBookIt.otf') format('opentype');
+}
+
+/*******
+ * DIVS *
+ *******/
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.div-banner {
+    padding-top: 40px;
+}
+
+.div-mission-statement {
+    width: 100%;
+    text-align: center;
+}
+
+.top {
+    height: 300pt;
+    background-color: #e4e5e4;
+}
+
+.div-top-about {
+    padding: 40px;
+}
+
+.div-bot-about {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+
+
+.bottom {
+    height: 670pt;
+    background-color: white;
+}
+
+/********
+ * TEXT *
+ ********/
+
+.text-main {
+    color: #666062;
+    font-family: "FreightSansProBookIt";
+    font-size: 20pt;
+}
+
+.text-dark {
+    color: #666062;
+    font-family: "FreightSansProLight";
+    font-size: 11pt;
+}
+
+.header-blue {
+    color: #007398;
+    font-family: "FreightSansProSemiBold";
+    font-size: 16pt;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.sub-header {
+    color: #666062;
+    font-family: "FreightSansProSemiBold";
+    font-size: 12pt;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.link-out {
+    text-align: center;
+}
+
+
+.button-history {
+    border-color: #666062;
+    border-style: solid;
+    border-width: 1pt;
+    text-align: center;
+    font-size: 24pt;
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    color: #666062;
+    font-family: "FreightSansProLight";
+    font-size: 11pt;
+    padding-top: 20px;
+}
+
+/********
+ * IMG  *
+ ********/
+
+.about-img {
+    align-content: center;
+    padding: 20px;
+    width:100%;
+}

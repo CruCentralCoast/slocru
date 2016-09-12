@@ -2,7 +2,7 @@
     <div class="left">
         <hr />
         <div class="left-header">
-            There are so many ways to get involved with SLO Cru!
+            There are so many ways to get involved with Cru!
         </div>
         <hr />
         <div class="box">
