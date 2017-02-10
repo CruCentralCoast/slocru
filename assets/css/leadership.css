@@ -45,13 +45,14 @@ and open the template in the editor.
 }
 
 .text#housing {
-    margin-top: 65pt;
+    margin-top: 30pt;
     text-align: center;
 }
 
 .applying#line2 {
     margin-top: 30pt;
     color: #ffffff;
+    margin-left: 10pt;
 }
 
 p.housing {

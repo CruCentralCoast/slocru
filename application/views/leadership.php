@@ -14,7 +14,7 @@
         <div class="column resources" id="section1">
             <p class="headings">LEADERSHIP ATTRIBUTES</p>
             <div class="sites">
-                <p>As we select leaders for our different movements, we are looking for four things to be present in our applicants. These traits include being Faithful, a Leader, Available, and Teachable; or as we abbreviate it: FLAT. Here’s what we mean:</p>
+                <p>As we select leaders for our different movements, we are looking for four things to be present in our applicants. These traits include being Faithful, a Leader, Available, and Teachable; or as we abbreviate it: FLAT. Here's what we mean:</p>
             </div>
         </div>
         <div class="column resources" id="section2">
