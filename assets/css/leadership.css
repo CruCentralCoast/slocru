@@ -84,6 +84,7 @@ p.applying#line1 {
     background-image: url("../img/placeholders/leadership.png");
     height: inherit;
     background-position: 0pt -145pt;
+    opacity: .7;
 }
 
 .sermons, .sermons:hover {
