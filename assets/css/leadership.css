@@ -177,6 +177,10 @@ p.applying#line1 {
     margin-bottom: 0pt;
 }
 
+.application {
+    margin-top: 20pt;
+}
+
 .links, .links:hover {
     font-family: "FreightSansProLight";
     font-size: 12pt;
