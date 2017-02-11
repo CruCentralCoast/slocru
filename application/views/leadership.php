@@ -73,7 +73,7 @@
 
                 <p><span class="list">Graphic Design Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Creates all graphic content for social media, flyers, and Weekly Meeting slides. Coordinates with many other teams for their graphic needs.</p>
 
-                <p><span class="list">Men's Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Works with involved men to plan and coordinate events and trainings throughout the year. This includes the Men’s Retreat in the spring.</p>
+                <p><span class="list">Men's Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Works with involved men to plan and coordinate events and trainings throughout the year. This includes the Men's Retreat in the spring.</p>
 
                 <p><span class="list">Prayer Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Focuses on creating a climate of prayer through the movement. Plans and organizes morning prayer times and prayer events.</p>
 
@@ -85,7 +85,7 @@
 
                 <p><span class="list">Weekly Meeting Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Coordinates and plans the Weekly Meeting for Cru. This includes finding speakers, sorting through announcements, organizing other teams and coordinators, and event coordinating our largest consistent event.</p>
 
-                <p><span class="list">Women's Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Works with involved women to plan and coordinate events and trainings throughout the year. This includes the Women’s Retreat in the spring.</p>
+                <p><span class="list">Women's Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Works with involved women to plan and coordinate events and trainings throughout the year. This includes the Women's Retreat in the spring.</p>
 
                 <p><span class="list">Worship / Sound Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Organizes worship and sound for events or Weekly Meetings as needed. This includes leading a team of people in the bands and coordinating sound setup.</p>
 
