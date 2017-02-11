@@ -89,9 +89,14 @@ p.applying#line1 {
     height: inherit;
 }
 
+.picture-overlay {
+    background-color: rgba(0,0,0,0.4);
+    height: inherit;
+}
+
 .picture-text {
-    color: #ffffff;
-    opacity: .4;
+    color: #000000;
+    
 }
 
 .sermons, .sermons:hover {
