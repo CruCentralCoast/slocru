@@ -50,49 +50,49 @@
                 <br /><br />
                 ----------</p>
 
-                <p><span class="list">Administrative Coordinator <span class="movements">(All Cru Central Coast Movements)</span>:</span> Works with Staff and Movement Leaders to organize communication, finance, data entry, and other administrative tasks as needed.</p>
+                <p><span class="list">Administrative Coordinator <sup class="movements">(All Cru Central Coast Movements)</sup>:</span> Works with Staff and Movement Leaders to organize communication, finance, data entry, and other administrative tasks as needed.</p>
 
-                <p><span class="list">Cruber Coordinator <span class="movements">(Cru Cal Poly)</span>:</span> Organizes Sophomore, Juniors, and Seniors to pick up Freshmen by the PAC each week for Weekly Meeting. Coordinates rides to other events as necessary.</p>
+                <p><span class="list">Cruber Coordinator <sup class="movements">(Cru Cal Poly)</sup>:</span> Organizes Sophomore, Juniors, and Seniors to pick up Freshmen by the PAC each week for Weekly Meeting. Coordinates rides to other events as necessary.</p>
 
-                <p><span class="list">Freshmen Guides Coordinator <span class="movements">(Cru Cal Poly)</span>:</span> Helps new Freshmen find out more information and get involved in Cru over the summer, before they arrive for classes.</p>
+                <p><span class="list">Freshmen Guides Coordinator <sup class="movements">(Cru Cal Poly)</sup>:</span> Helps new Freshmen find out more information and get involved in Cru over the summer, before they arrive for classes.</p>
 
-                <p><span class="list">Setup Coordinator <span class="movements">(Cru Cal Poly)</span>:</span> Coordinates a team of people to help setup and teardown the Weekly Meeting each week.</p>
+                <p><span class="list">Setup Coordinator <sup class="movements">(Cru Cal Poly)</sup>:</span> Coordinates a team of people to help setup and teardown the Weekly Meeting each week.</p>
 
-                <p><span class="list">Snack Coordinator <span class="movements">(Cru Cal Poly)</span>:</span> Coordinates a team of people to help prepare snacks for the Weekly Meeting.</p>
+                <p><span class="list">Snack Coordinator <sup class="movements">(Cru Cal Poly)</sup>:</span> Coordinates a team of people to help prepare snacks for the Weekly Meeting.</p>
 
-                <p><span class="list">Summer Cru Coordinator <span class="movements">(Cru Cal Poly)</span>:</span> Organizes all Summer Cru activities over the summer including Weekly Meetings, events, and Community Groups. Organizes a team to help make this happen. Note: must be available to stay in SLO during the summer.</p>
+                <p><span class="list">Summer Cru Coordinator <sup class="movements">(Cru Cal Poly)</sup>:</span> Organizes all Summer Cru activities over the summer including Weekly Meetings, events, and Community Groups. Organizes a team to help make this happen. Note: must be available to stay in SLO during the summer.</p>
 
-                <p><span class="list">Welcome Coordinator <span class="movements">(Cru Cal Poly)</span>:</span> Coordinates a team of people to help welcome and make students feel at home during the Weekly Meeting.</p>
+                <p><span class="list">Welcome Coordinator <sup class="movements">(Cru Cal Poly)</sup>:</span> Coordinates a team of people to help welcome and make students feel at home during the Weekly Meeting.</p>
 
                 <p>----------</p>
 
-                <p><span class="list">Community Team <span class="movements">(Cru Cal Poly)</span>:</span> Fosters community throughout the year amongst the movement by planning social events. These events include the Barn Dance, Christmas Cru, and Night at the Oscars.</p>
+                <p><span class="list">Community Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Fosters community throughout the year amongst the movement by planning social events. These events include the Barn Dance, Christmas Cru, and Night at the Oscars.</p>
 
-                <p><span class="list">Fall Retreat Team <span class="movements">(All Cru Central Coast Movements)</span>:</span> Plans our largest weekend getaway for the year! Works with all movements to organize the retreat, plan content, and coordinate people to serve.</p>
+                <p><span class="list">Fall Retreat Team <sup class="movements">(All Cru Central Coast Movements)</sup>:</span> Plans our largest weekend getaway for the year! Works with all movements to organize the retreat, plan content, and coordinate people to serve.</p>
 
-                <p><span class="list">Global Vision Team <span class="movements">(Cru Cal Poly)</span>:</span> Focuses on creating a heart for missions through the movement. Plans and organizes times for the movement to hear about missions at Weekly Meetings, in Community Groups, and at other events.</p>
+                <p><span class="list">Global Vision Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Focuses on creating a heart for missions through the movement. Plans and organizes times for the movement to hear about missions at Weekly Meetings, in Community Groups, and at other events.</p>
 
-                <p><span class="list">Graphic Design Team <span class="movements">(Cru Cal Poly)</span>:</span> Creates all graphic content for social media, flyers, and Weekly Meeting slides. Coordinates with many other teams for their graphic needs.</p>
+                <p><span class="list">Graphic Design Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Creates all graphic content for social media, flyers, and Weekly Meeting slides. Coordinates with many other teams for their graphic needs.</p>
 
-                <p><span class="list">Men’s Team <span class="movements">(Cru Cal Poly)</span>:</span> Works with involved men to plan and coordinate events and trainings throughout the year. This includes the Men’s Retreat in the spring.</p>
+                <p><span class="list">Men's Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Works with involved men to plan and coordinate events and trainings throughout the year. This includes the Men’s Retreat in the spring.</p>
 
-                <p><span class="list">Prayer Team <span class="movements">(Cru Cal Poly)</span>:</span> Focuses on creating a climate of prayer through the movement. Plans and organizes morning prayer times and prayer events.</p>
+                <p><span class="list">Prayer Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Focuses on creating a climate of prayer through the movement. Plans and organizes morning prayer times and prayer events.</p>
 
-                <p><span class="list">Outreach Team <span class="movements">(Cru Cal Poly)</span>:</span> Helps give students opportunities to connect with Cru. This includes the Fall Freshmen outreach as well as events and trainings throughout the year.</p>
+                <p><span class="list">Outreach Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Helps give students opportunities to connect with Cru. This includes the Fall Freshmen outreach as well as events and trainings throughout the year.</p>
 
-                <p><span class="list">Social Media & Dev Team <span class="movements">(Cru Cal Poly)</span>:</span> Creates content for Cru's social media accounts (Facebook, Instagram, Snapchat) as well as web & app development for Cru's website and iOS/Android applications.</p>
+                <p><span class="list">Social Media & Dev Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Creates content for Cru's social media accounts (Facebook, Instagram, Snapchat) as well as web & app development for Cru's website and iOS/Android applications.</p>
 
-                <p><span class="list">Veritas Team <span class="movements">(All Cru Central Coast Movements)</span>:</span> A club partnership with Cru, the Veritas Team focuses on planning the large Veritas Forum at Cal Poly as well as the Delve discussion group throughout the year. Recently, the Veritas Team also introduced Aletheia, a journal of Christian thought.</p>
+                <p><span class="list">Veritas Team <sup class="movements">(All Cru Central Coast Movements)</sup>:</span> A club partnership with Cru, the Veritas Team focuses on planning the large Veritas Forum at Cal Poly as well as the Delve discussion group throughout the year. Recently, the Veritas Team also introduced Aletheia, a journal of Christian thought.</p>
 
-                <p><span class="list">Weekly Meeting Team <span class="movements">(Cru Cal Poly)</span>:</span> Coordinates and plans the Weekly Meeting for Cru. This includes finding speakers, sorting through announcements, organizing other teams and coordinators, and event coordinating our largest consistent event.</p>
+                <p><span class="list">Weekly Meeting Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Coordinates and plans the Weekly Meeting for Cru. This includes finding speakers, sorting through announcements, organizing other teams and coordinators, and event coordinating our largest consistent event.</p>
 
-                <p><span class="list">Women’s Team <span class="movements">(Cru Cal Poly)</span>:</span> Works with involved women to plan and coordinate events and trainings throughout the year. This includes the Women’s Retreat in the spring.</p>
+                <p><span class="list">Women's Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Works with involved women to plan and coordinate events and trainings throughout the year. This includes the Women’s Retreat in the spring.</p>
 
-                <p><span class="list">Worship / Sound Team <span class="movements">(Cru Cal Poly)</span>:</span> Organizes worship and sound for events or Weekly Meetings as needed. This includes leading a team of people in the bands and coordinating sound setup.</p>
+                <p><span class="list">Worship / Sound Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Organizes worship and sound for events or Weekly Meetings as needed. This includes leading a team of people in the bands and coordinating sound setup.</p>
 
-                <p><span class="list">Core Team <span class="movements">(Branded, Cru Cal Poly, Fellowship of Christian Athletes in Action, Greek Row)</span>:</span> Helps give overall direction to the movement by speaking into larger ideas or problems and evaluates how the movement is doing and where it could grow. Usually meets as a team with members of Cru Central Coast staff.</p>
+                <p><span class="list">Core Team <sup class="movements">(Branded, Cru Cal Poly, Fellowship of Christian Athletes in Action, Greek Row)</sup>:</span> Helps give overall direction to the movement by speaking into larger ideas or problems and evaluates how the movement is doing and where it could grow. Usually meets as a team with members of Cru Central Coast staff.</p>
 
-                <p><span class="list">Movement Leader <span class="movements">(Destino, Epic, Hancock)</span>:</span> Helps give overall direction to the movement by organizing leadership, planning events, strategic thinking, and working directly with Cru Central Coast staff.</p>
+                <p><span class="list">Movement Leader <sup class="movements">(Destino, Epic, Hancock)</sup>:</span> Helps give overall direction to the movement by organizing leadership, planning events, strategic thinking, and working directly with Cru Central Coast staff.</p>
 
             </div>
         </div>
