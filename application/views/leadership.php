@@ -13,19 +13,33 @@
         <div class="column resources" id="section1">
             <p class="headings">LEADERSHIP ATTRIBUTES</p>
             <div class="sites">
-                <p>As we select leaders for our different movements, we are looking for four things to be present in our applicants. These traits include being Faithful, a Leader, Available, and Teachable; or as we abbreviate it: <span class="list">FLAT</span>.
-                <br />Here's what we mean:</p>
-
+                <p>As we select leaders for our different movements, we are looking for four things to be present in our applicants. 
+                    These traits include being Faithful, a Leader, Available, and Teachable; or as we abbreviate it: <span class="list">FLAT</span>.
+                    Here's what we mean:</p>
                 <p><span class="list">Faithful:</span> Being an active member in the movement you are applying for leadership with and committing to the responsibilities for the leadership position.</p>
                 <p><span class="list">Leader:</span> Being a person of influence with a willingness to focus on the needs of others.</p>
                 <p><span class="list">Available:</span> Willing to commit to being a part of a Community Group with Cru Central Coast as well as events, conferences, and leadership activities sponsored by your movement within Cru Central Coast.</p>
                 <p><span class="list">Teachable:</span> Having a desire to grow and a desire to receive input and feedback from others regarding your leadership.</p>
+                <p>As you consider leadership with Cru Central Coast, know that we are not looking for the “perfect” leader who has it all together, 
+                    but rather someone willing to learn, grow, and pay attention to the needs of others.</p>
             </div>
         </div>
         <div class="column resources" id="section2">
             <p class="headings">LEADERSHIP APPLICATION</p>
             <div class="guides">
-                <p class="subheadings">Prayer</p>
+                <p>The Leadership Application is your first step toward applying for leadership with Cru Central Coast. 
+                    The application opens on February 6th, 2017 and will remain open until the leadership positions are filled. 
+                    It is recommended that the Leadership Applications be returned by Thursday, February 16th, 2017 
+                    for those applying for all positions other than Community Group Leadership.</p>
+
+                <p>Below, you fill find two applications, one for those interested in Team Leaders / Coordinators and one for those interested in leading a Community Group. 
+                    Brief descriptions for the Teams / Coordinators are below. 
+                    Please fill out and return the application corresponding to what you are applying for. 
+                    Applications should be returned to Mikaela at mikaela.serafin@cru.org.</p>
+
+                <p><span class="list">Leadership Application</span> – <a class="links" href="../../assets/documents/Leadership_App_2017-Team_Leader_Coordinator.docx" download>Team Leader / Coordinator</a></p>
+
+                <p><span class="list">Leadership Application</span> – <a class="links" href="../../assets/documents/Leadership_App_2017-CG_Leader.docx" download>Community Group Leader (LINK)</a></p>
                 
             </div>
         </div>
