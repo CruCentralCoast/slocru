@@ -90,15 +90,17 @@ p.applying#line1 {
 }
 
 .picture-overlay {
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.6);
     height: inherit;
 }
 
 .picture-text {
-    color: #000000;
-    padding-left: 50pt;
-    padding-right: 50pt;
+    /*color: #000000;*/
+    margin-left: 150pt;
+    margin-right: 30pt;
+    /* margin-right: -10pt; */
     padding-top: 140pt;
+    font-size: 14pt;
 }
 
 .sermons, .sermons:hover {
