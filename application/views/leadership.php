@@ -32,14 +32,14 @@
                     It is recommended that the Leadership Applications be returned by Thursday, February 16th, 2017 
                     for those applying for all positions other than Community Group Leadership.</p>
 
-                <p>Below, you fill find two applications, one for those interested in Team Leaders / Coordinators and one for those interested in leading a Community Group. 
-                    Brief descriptions for the Teams / Coordinators are below. 
+                <p>Below, you fill find two applications, one for those interested in Team Leaders/Coordinators and one for those interested in leading a Community Group. 
+                    Brief descriptions for the Teams/Coordinators are below. 
                     Please fill out and return the application corresponding to what you are applying for. 
-                    Applications should be returned to Mikaela at mikaela.serafin@cru.org.</p>
+                    Applications should be returned to Mikaela at <a class="links" href="mailto:mikaela.serafin@cru.org?Subject=Leadership%20Application">mikaela.serafin@cru.org</a>.</p>
 
-                <p><span class="list">Leadership Application</span> – <a class="links" href="../../assets/documents/Leadership_App_2017-Team_Leader_Coordinator.docx" download>Team Leader / Coordinator</a></p>
-
-                <p><span class="list">Leadership Application</span> – <a class="links" href="../../assets/documents/Leadership_App_2017-CG_Leader.docx" download>Community Group Leader (LINK)</a></p>
+                <p><span class="list">Leadership Application:</span></P>
+                <p><a class="links" href="../../assets/documents/Leadership_App_2017-Team_Leader_Coordinator.docx" download>Team Leader / Coordinator</a></p>
+                <br /><span class="list">Leadership Application</span> - <a class="links" href="../../assets/documents/Leadership_App_2017-CG_Leader.docx" download>Community Group Leader</a></p>
                 
             </div>
         </div>
