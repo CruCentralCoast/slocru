@@ -6,7 +6,6 @@
         </div>
     </div>
     <div class="picture">
-        <a href="construction"><p class="sermons">APPLYING FOR LEADERSHIP</p></a>
     </div>
 </div>
 <div class="container bottom">
