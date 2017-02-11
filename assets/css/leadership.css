@@ -1,0 +1,204 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2014, 11:17:46 PM
+    Author     : kylereis
+*/
+
+@font-face {
+    font-family: "FreightSansProBold";
+    src: url('../fonts/FreigSanProBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProSemiBold";
+    src: url('../fonts/FreigSanProSem.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProItalic";
+    src: url('../fonts/FreigSanProLigIt.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProLight";
+    src: url('../fonts/FreigSanProLig.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "FreightSansProMedium";
+    src: url('../fonts/FreigSanProMed.otf') format('opentype');
+}
+
+.top {
+    height: 390pt;
+    width: 100%;
+    background-color: #626262;
+}
+
+.box {
+    float: left;
+    width: 33%;
+}
+
+.text#housing {
+    margin-top: 10pt;
+    text-align: left;
+    margin-left: 15pt;
+    margin-right: 10pt;
+    color: #ffffff
+}
+
+.applying#line2 {
+    margin-top: 30pt;
+    color: #ffffff;
+    margin-left: 10pt;
+    font-family: "FreightSansProSemiBold";
+}
+
+p.housing {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    color: #666062;
+}
+
+p.applying#line1 {
+    font-family: "FreightSansProSemiBold";
+    font-size: 14pt;
+    color: #ffffff;
+    border: 1pt solid #ffffff;
+    width: 220pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+}
+
+/*a.housing, a.housing:hover {
+    font-family: "FreightSansProMedium";
+    font-size: 12pt;
+    color: #F9B625;
+}*/
+
+.picture {
+    width: 66%;
+    float: right;
+    background-image: url("../img/placeholders/leadership.png");
+    height: inherit;
+}
+
+.picture-overlay {
+    background-color: rgba(0,0,0,0.6);
+    height: inherit;
+}
+
+.picture-text {
+    margin-left: 150pt;
+    margin-right: 30pt;
+    padding-top: 140pt;
+    font-size: 14pt;
+}
+
+.sermons, .sermons:hover {
+    font-family: "FreightSansProBold";
+    font-size: 24pt;
+    color: #ffffff;
+    width: 250pt;
+    text-align: center;
+    margin-top: 60pt;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1pt solid #ffffff;
+    padding:  10pt 10pt 10pt 10pt;
+}
+
+.bottom {
+    padding-top: 28pt;
+    padding-bottom: 28pt;
+    background-color: #ffffff;
+}
+
+.shift {
+    margin-left: 30pt;
+}
+
+.resources {
+    float: left;
+    width: 33.3%;
+}
+
+#section1 {
+    padding-right: 20pt;
+}
+
+#section2 {
+    padding-right: 20pt;
+}
+
+#section3 {
+    padding-right: 20pt;
+}
+
+.team {
+    padding-top: 15pt;
+}
+
+.team-list {
+    overflow-y: scroll;
+    height: 700px;
+    margin-bottom: -15pt;
+}
+
+.headings {
+    font-family: "FreightSansProSemiBold";
+    font-size: 14pt;
+    color: #727375;
+}
+
+.list {
+    font-family: "FreightSansProMedium";
+    font-size: 12pt;
+    color: #dd7d1b;
+}
+
+.description {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    color: #727375;
+}
+
+.subheadings {
+    font-family: "FreightSansProMedium";
+    font-size: 13pt;
+    color: #727375;
+    margin-bottom: 0pt;
+}
+
+.application {
+    margin-top: 20pt;
+}
+
+.links, .links:hover {
+    font-family: "FreightSansProLight";
+    font-size: 12pt;
+    color: #dd7d1b;
+}
+
+p.links {
+    margin-top: -8pt;
+}
+
+.links:hover, .site-link:hover {
+    opacity: .5;
+}
+
+.attributes {
+    color: #ffffff;
+}
+
+sup {
+    font-size: 60%;
+}

@@ -55,8 +55,8 @@
      to always be the same three, but will change throughout the year. -->
 <div class="container bottom">
     <div class="wrap">
-        <a href="construction">
-            <img src="../assets/img/image-holder1.png" class="holder" id="holder1"/>
+        <a href="leadership">
+            <img src="../assets/img/placeholders/leadership.png" class="holder" id="holder1"/>
         </a>
     </div>
     <div class="wrap">
