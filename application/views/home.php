@@ -56,7 +56,7 @@
 <div class="container bottom">
     <div class="wrap">
         <a href="leadership">
-            <img src="../assets/img/leadership.png" class="holder" id="holder1"/>
+            <img src="../assets/img/placeholders/leadership.png" class="holder" id="holder1"/>
         </a>
     </div>
     <div class="wrap">
