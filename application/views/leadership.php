@@ -9,7 +9,7 @@
             <p><span class="list">Leader:</span> Being a person of influence with a willingness to focus on the needs of others.</p>
             <p><span class="list">Available:</span> Willing to commit to being a part of a Community Group with Cru Central Coast as well as events, conferences, and leadership activities sponsored by your movement within Cru Central Coast.</p>
             <p><span class="list">Teachable:</span> Having a desire to grow and a desire to receive input and feedback from others regarding your leadership.</p>
-            <p>As you consider leadership with Cru Central Coast, know that we are not looking for the “perfect” leader who has it all together, 
+            <p>As you consider leadership with Cru Central Coast, know that we are not looking for the "perfect" leader who has it all together, 
                     but rather someone willing to learn, grow, and pay attention to the needs of others.</p>
         </div>
     </div>

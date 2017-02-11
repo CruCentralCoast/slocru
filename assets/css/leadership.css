@@ -87,10 +87,11 @@ p.applying#line1 {
     float: right;
     background-image: url("../img/placeholders/leadership.png");
     height: inherit;
+    opacity: .4;
 }
 
 .picture {
-    opacity: .4;
+    color: #ffffff
 }
 
 .sermons, .sermons:hover {
