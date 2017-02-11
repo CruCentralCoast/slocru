@@ -73,7 +73,7 @@ $this->load->helper('url');
                                 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;   
                                 <a href="https://give.cru.org/2281756" class="subs" target="_blank">GIVE</a>
                                 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;   
-                                <a href="http://www.cru.org/about/what-we-do/milestones.html" class="subs" target="_blank">HISTORY</a>
+                                <a href="history" class="subs">HISTORY</a>
                             </p>
                         </div>
                         <div id="involvement-links" class="subs hidden">

@@ -1,5 +1,9 @@
 <div class="container">
-    <p id="footer">&copy; 2016 Cru Central Coast. All Rights Reserved.<p>
+    <p id="footer">&copy; 
+        <script language="JavaScript" type="text/javascript">
+        document.write((new Date()).getFullYear())
+        </script>
+         Cru Central Coast. All Rights Reserved.<p>
 </div>
 </body>
 </html>

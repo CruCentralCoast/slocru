@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';//localhost';//mysql3.000webhost.com';
-$db['default']['username'] = 'slocrus1_all';//a7253567_admin';
-$db['default']['password'] = '2cor129';//romans125';
-$db['default']['database'] = 'slocrus1_main';//a7253567_slocru';
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'slocrus1_all';
+$db['default']['password'] = '2cor129';
+$db['default']['database'] = 'slocrus1_main';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
@@ -63,7 +63,6 @@ $db['default']['dbcollat'] = 'utf8_general_ci';
 $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
-
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */
