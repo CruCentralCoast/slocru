@@ -56,6 +56,7 @@ and open the template in the editor.
     margin-top: 30pt;
     color: #ffffff;
     margin-left: 10pt;
+    font-family: "FreightSansProSemiBold";
 }
 
 p.housing {
@@ -95,10 +96,8 @@ p.applying#line1 {
 }
 
 .picture-text {
-    /*color: #000000;*/
     margin-left: 150pt;
     margin-right: 30pt;
-    /* margin-right: -10pt; */
     padding-top: 140pt;
     font-size: 14pt;
 }
