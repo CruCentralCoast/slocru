@@ -34,7 +34,7 @@ and open the template in the editor.
 }
 
 .top {
-    height: 212pt;
+    height: 390pt;
     width: 100%;
     background-color: #626262;
 }
@@ -45,8 +45,11 @@ and open the template in the editor.
 }
 
 .text#housing {
-    margin-top: 30pt;
-    text-align: center;
+    margin-top: 10pt;
+    text-align: left;
+    margin-left: 15pt;
+    margin-right: 10pt;
+    color: #ffffff
 }
 
 .applying#line2 {
@@ -84,8 +87,10 @@ p.applying#line1 {
     float: right;
     background-image: url("../img/placeholders/leadership.png");
     height: inherit;
-    background-position: 0pt -145pt;
-    opacity: .6;
+}
+
+.picture {
+    opacity: .4;
 }
 
 .sermons, .sermons:hover {
