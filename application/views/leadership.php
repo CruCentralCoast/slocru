@@ -63,8 +63,8 @@
             </div>
         </div>
         <div class="column resources" id="section3">
-            <p class="subheadings">Team</p>
-            <div class="team">
+            <p class="subheadings team">Team</p>
+            <div class="team-list">
                 <p><span class="list">Community Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Fosters community throughout the year amongst the movement by planning social events. These events include the Barn Dance, Christmas Cru, and Night at the Oscars.</p>
 
                 <p><span class="list">Fall Retreat Team <sup class="movements">(All Cru Central Coast Movements)</sup>:</span> Plans our largest weekend getaway for the year! Works with all movements to organize the retreat, plan content, and coordinate people to serve.</p>

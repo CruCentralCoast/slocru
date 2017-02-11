@@ -96,7 +96,9 @@ p.applying#line1 {
 
 .picture-text {
     color: #000000;
-    
+    padding-left: 50pt;
+    padding-right: 50pt;
+    padding-top: 140pt;
 }
 
 .sermons, .sermons:hover {
@@ -140,9 +142,13 @@ p.applying#line1 {
 }
 
 .team {
+    padding-top: 15pt;
+}
 
+.team-list {
     overflow-y: scroll;
     height: 800px;
+    margin-bottom: -15pt;
 }
 
 .headings {
