@@ -134,7 +134,7 @@ p.applying#line1 {
     color: #727375;
 }
 
-.site-link, .site-link:hover {
+.list {
     font-family: "FreightSansProMedium";
     font-size: 12pt;
     color: #dd7d1b;
