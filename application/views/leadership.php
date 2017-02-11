@@ -36,7 +36,7 @@
                     Please fill out and return the application corresponding to what you are applying for. 
                     Applications should be returned to Mikaela at <a class="links" href="mailto:mikaela.serafin@cru.org?Subject=Leadership%20Application">mikaela.serafin@cru.org</a>.</p>
 
-                <p class="subheadings application">Leadership Application:</P>
+                <p class="subheadings application">Leadership Applications:</P>
                 <p><a class="links" href="../../assets/documents/Leadership_App_2017-Team_Leader_Coordinator.docx" download>Team Leader / Coordinator</a>
                 <br /><a class="links" href="../../assets/documents/Leadership_App_2017-CG_Leader.docx" download>Community Group Leader</a></p>
             </div>
