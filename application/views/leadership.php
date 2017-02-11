@@ -1,7 +1,7 @@
 <div class="container top">
     <div class="box">
         <div class="text" id="housing">
-            <p class="headings">LEADERSHIP ATTRIBUTES</p>
+            <p class="headings attributes">LEADERSHIP ATTRIBUTES</p>
             <p>As we select leaders for our different movements, we are looking for four things to be present in our applicants. 
                     These traits include being Faithful, a Leader, Available, and Teachable; or as we abbreviate it: <span class="list">FLAT</span>.
                     Here's what we mean:</p>
@@ -14,10 +14,9 @@
         </div>
     </div>
     <div class="picture">
-        <div class="picture overlay">
+        <div class="picture-overlay">
             <div class="picture-text">
-                <p class="applying" id="line1">APPLYING FOR LEADERSHIP</p>
-                    <p class="applying" id="line2">We are so excited that you are considering leading with Cru Central Coast! Below, you will find a description of what leadership looks like and what different roles entail. Remember to look at the movement that you are involved in as that is where it makes the most sense for you to lead.</p>
+                <p class="applying" id="line2">We are so excited that you are considering leading with Cru Central Coast! Below, you will find a description of what leadership looks like and what different roles entail. Remember to look at the movement that you are involved in as that is where it makes the most sense for you to lead.</p>
             </div>
         </div>
     </div>
@@ -64,9 +63,8 @@
             </div>
         </div>
         <div class="column resources" id="section3">
-            <div class="downloads">
-                <p class="subheadings">Team</p>
-
+            <p class="subheadings">Team</p>
+            <div class="team">
                 <p><span class="list">Community Team <sup class="movements">(Cru Cal Poly)</sup>:</span> Fosters community throughout the year amongst the movement by planning social events. These events include the Barn Dance, Christmas Cru, and Night at the Oscars.</p>
 
                 <p><span class="list">Fall Retreat Team <sup class="movements">(All Cru Central Coast Movements)</sup>:</span> Plans our largest weekend getaway for the year! Works with all movements to organize the retreat, plan content, and coordinate people to serve.</p>
@@ -94,7 +92,6 @@
                 <p><span class="list">Core Team <sup class="movements">(Branded, Cru Cal Poly, Fellowship of Christian Athletes in Action, Greek Row)</sup>:</span> Helps give overall direction to the movement by speaking into larger ideas or problems and evaluates how the movement is doing and where it could grow. Usually meets as a team with members of Cru Central Coast staff.</p>
 
                 <p><span class="list">Movement Leader <sup class="movements">(Destino, Epic, Hancock)</sup>:</span> Helps give overall direction to the movement by organizing leadership, planning events, strategic thinking, and working directly with Cru Central Coast staff.</p>
-
             </div>
         </div>
     </div>

@@ -127,16 +127,22 @@ p.applying#line1 {
     width: 33.3%;
 }
 
-#section1{
+#section1 {
     padding-right: 20pt;
 }
 
-#section2{
+#section2 {
     padding-right: 20pt;
 }
 
-#section3{
+#section3 {
     padding-right: 20pt;
+}
+
+.team {
+
+    overflow-y: scroll;
+    height: 800px;
 }
 
 .headings {
@@ -159,9 +165,9 @@ p.applying#line1 {
 
 .subheadings {
     font-family: "FreightSansProMedium";
-    font-size: 12pt;
+    font-size: 13pt;
     color: #727375;
-    margin-bottom: 15pt;
+    margin-bottom: 0pt;
 }
 
 .links, .links:hover {
@@ -176,4 +182,12 @@ p.links {
 
 .links:hover, .site-link:hover {
     opacity: .5;
+}
+
+.attributes {
+    color: #ffffff;
+}
+
+sup {
+    font-size: 60%;
 }
