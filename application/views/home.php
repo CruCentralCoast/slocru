@@ -30,15 +30,15 @@
     <div class="column">
         <div class="text">
             <p class="meeting">CRU WEEKLY MEETING</p>
-            <p class="meeting-info" id="line1"><span class="time">Tuesdays at 8pm</span> (doors open at 7:30pm)</p>
-            <p class="meeting-info" id="line2">Mountainbrook Community Church</p>
+            <p class="meeting-info" id="line1"><span class="time">Tuesdays at 8pm</span></p>
+            <p class="meeting-info" id="line2">Chumash Auditorium</p>
             <p class="break"></p>
-            <p class="address">1775 Calle Joaquin, San Luis Obispo, CA 93405</p>
+            <p class="address">1 Grand Avenue, San Luis Obispo, CA 93407</p>
         </div>
     </div>
     <div class="column">
         <div class="directions-button">
-            <a href="https://www.google.com/maps/place/1775+Calle+Joaquin,+San+Luis+Obispo,+CA+93405/@35.2417196,-120.6880619,1463m/data=!3m1!1e3!4m2!3m1!1s0x80ecf0cab0fe565d:0x85364dfc5018da90" target="_blank">
+            <a href="https://www.google.com/maps/place/Chumash+Auditorium/@35.3002242,-120.6612301,882m/data=!3m2!1e3!4b1!4m5!3m4!1s0x80ecf1b1a0354921:0x13310e2d6d3cc64b!8m2!3d35.3002242!4d-120.6590414" target="_blank">
                 <p class="button">GET DIRECTIONS</p>
             </a>
         </div>
